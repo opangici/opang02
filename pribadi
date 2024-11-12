@@ -805,7 +805,7 @@ http://210.210.155.37/x6bnqe/s/s81/01.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&c
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0, tvg-id="AlQuran.tv" tvg-name="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/fullhd_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="OPANG",AlQuran Tv
-https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3473,115 +3473,106 @@ http://23.237.10.66:16492
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",ALquran Alkareem
-http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
-
-#EXTINF:0, group-title="RELIGY",ALquran Alkareem
-http://210.210.155.35/qwr9ew/s/s28/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Quran_TV
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
 
 #EXTINF:0, group-title="RELIGY",Assunah
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
-#EXTINF:0, group-title="RELIGY",Assunah
-http://210.210.155.35/qwr9ew/s/s27/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Sunna_TV
-
-#EXTINF:0, group-title="RELIGY",MADINAH
-http://m.live.net.sa:1935/live/sunnah/chunklist_w938352387.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
 
 #EXTINF:0, tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" group-title="RELIGY",ALWAFATARIM TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",Al Bahjah
-https://e1.siar.us/albahjahtv/live/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",ADITV
-https://v2.siar.us/aditv/livestream/chunks.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",AHSAN TV CIKARANG
-http://119.82.224.75:1935/live/ahsantv/player.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",AHSAN TV CIKARANG
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",AJWA TV
-https://srtv.my.id/vd/play.m3u8?id=7464&type=hls
+
 
 #EXTINF:0, group-title="RELIGY",AKHYAR TV
-http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",AL IMAN TV
-http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",AL IMAN TV
-http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",ASHIIL TV
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",ASWAJA TV
-https://warningfm.github.io/dailymotion/AswajaTV.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",BRITISH MUSLIM TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 
 #EXTINF:0, group-title="RELIGY",CHANNEL4U
-http://185.238.0.145:1313/c/max/channel4u-hd.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",DMI TV
-http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",IQRAA TV
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",IZZAH TV
-https://streaming.sigraduta.co.id/izzahtv.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:0, group-title="RELIGY",MADANI TV
-https://stream.asianastream.com/madani/ngrp:madanitv_all/chunklist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",MTA TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
 
 #EXTINF:0, group-title="RELIGY",MUADZ TV
-http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",MUHAMMADIAH TV
-http://tevemobile.us.to/sc/uc/play.m3u8?channel=muhammadiyahtv
+
 
 #EXTINF:0, group-title="RELIGY",MUI TV
-http://tevemobile.us.to/sc/uc/play.m3u8?channel=muitv
+
 
 #EXTINF:0, group-title="RELIGY",MUSLIM TV
-https://anevia114.mncnow.id:443/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+
 
 #EXTINF:0, tv-logo="https://mqtv.co.id/wp-content/uploads/2021/04/favicon.png" group-title="RELIGY",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",NABAWI TV
-http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",NIAGATV
-http://wowza58.indostreamserver.com:1935/niagatv/live/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",NIAGATV
-http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",NU Channel
-http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w2102112964.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",PEACETV
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",PEACETV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",SALAM TV DELI SERDANG
 http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8
