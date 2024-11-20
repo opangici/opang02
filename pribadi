@@ -3019,42 +3019,139 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/mudae/images/1/1e/Horror_Genre_Logo.png" group-title="MOVIES",HORROR MACHINE
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzmJuGBP2gQ_ijtt8w-y-FEyAQph7AXzhSoQ&usqp=CAU" group-title="MOVIES",KIX
-
-
-#EXTINF:0, tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_small.png" group-title="MOVIES",MYCINEMA
-
-
-#EXTINF:0, tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="MOVIES",MYCINEMA ASIA
-
-
-#EXTINF:0, group-title="MOVIES",MYCINEMA EUROPE
-
-
-#EXTINF:0, tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES",MY FAMILY CHANNEL
-
-
 #EXTINF:0, tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="MOVIES",MYTIME MOVIE
 https://mytime-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:0, tvg-logo="https://assets.stickpng.com/images/6201784bf2f75f000484e723.png" group-title="MOVIES",RAKUTEN TV
-
-
-#EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/15ac6c5a93d6db3e62101b29491615d2ec89ffaee7899f94ccf5728c236a70fc.png" group-title="MOVIES",REDBOX
-
-
-#EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/15ac6c5a93d6db3e62101b29491615d2ec89ffaee7899f94ccf5728c236a70fc.png" group-title="MOVIES",REDBOX COMEDY
-
-
-#EXTINF:0, tvg-logo="https://i0.wp.com/tva.onscreenasia.com/wp-content/uploads/archive/onscreenasia/scm_crown.JPG?resize=450%2C450&ssl=1" group-title="MOVIES", STAR CHINESSE MOVIE
-
-
-#EXTINF:0, tvg-logo="https://www.logolynx.com/images/logolynx/4d/4de3f59a0ad33276d071eb350804a628.jpeg" group-title="MOVIES",WarnerTV (THAI)
 
 #EXTINF:0, group-title="MOVIES",WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 #EXTINF:0, tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="MOVIES",WOWOW
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II", 🇲🇾 BOO
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇾 SHOWCASE MOVIE
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37428.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 HBO HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 HBO Hits HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 HBO Family HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 HBO Signature HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
+#EXTINF:0, CUID="753" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES II",🇺🇸 HBO East
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:0, CUID="754" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES II",🇺🇸 HBO2 East
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0, CUID="755" tvg-name="HBO Comedy East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="MOVIES II",🇺🇸 HBO Comedy East
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:0, CUID="756" tvg-name="HBO Family East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_7itcltTb5VCMIhs0HqOs7u9qfxHCtJ96ZqYfqUJlCNX13TFz6reechO&s=10" group-title="MOVIES II",🇺🇸 HBO Family East
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:0, CUID="757" tvg-name="HBO Zone East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES II",🇺🇸 HBO Zone East
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 Cinemax
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 FLIK HD
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29592
+#https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 Galaxy Premium 
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29603
+#https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29603
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 Galaxy
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29604
+#https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29604
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 ATV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29899
+#EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 Drama Korea LBS
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35769
+
+#EXTINF:0, tvg-id="" tvg-name="Rock Entertainment" tvg-logo="http://kingtv.dynu.com/tvlogo/RockEntertainment.png" group-title="MOVIES II",Rock Entertainment_
+http://31.42.187.37:25461/watchpad13158/1234/335
+#EXTINF:0, tvg-id="" tvg-name="Rock Actions" tvg-logo="http://kingtv.dynu.com/tvlogo/RockActions.png" group-title="MOVIES II",Rock Actions_
+http://31.42.187.37:25461/watchpad13158/1234/27
+#EXTINF:0, tvg-id="143.astro" tvg-name="MY HBO HD" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="MOVIES II",MY: HBO HD_
+http://31.42.187.37:25461/watchpad13158/1234/47
+#EXTINF:0, tvg-id="450.astro" tvg-name="HBO Family" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="MOVIES II",HBO Family_
+http://31.42.187.37:25461/watchpad13158/1234/2442
+#EXTINF:0, tvg-id="" tvg-name="HBO Hits" tvg-logo="http://kingtv.dynu.com/tvlogo/HBOHits.png" group-title="MOVIES II",HBO Hits_
+http://31.42.187.37:25461/watchpad13158/1234/3042
+#EXTINF:0, tvg-id="337.astro" tvg-name="MY CINEMAX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/cinemax.png" group-title="MOVIES II",MY: CINEMAX HD_
+http://31.42.187.37:25461/watchpad13158/1234/28
+#EXTINF:0, tvg-id="" tvg-name="Paramount Channel" tvg-logo="http://kingtv.dynu.com/tvlogo/Paramount.png" group-title="MOVIES II",Paramount Channel_
+http://31.42.187.37:25461/watchpad13158/1234/3041
+#EXTINF:0, tvg-id="454.astro" tvg-name="SHOWCASE MOVIES" tvg-logo="http://kingtv.dynu.com/tvlogo/showcase-movies.png" group-title="MOVIES II",SHOWCASE MOVIES_
+http://31.42.187.37:25461/watchpad13158/1234/4314
+#EXTINF:0, tvg-id="" tvg-name="MY tvN Movies" tvg-logo="http://kingtv.dynu.com/tvlogo/tvN_Movies.png" group-title="MOVIES II",MY: tvN Movies
+http://31.42.187.37:25461/watchpad13158/1234/103
+#EXTINF:0, tvg-id="WAR.Asia" tvg-name="MY WARNER TV" tvg-logo="http://kingtv.dynu.com/tvlogo/Warner.png" group-title="MOVIES II",MY: WARNER TV_
+http://31.42.187.37:25461/watchpad13158/1234/104
+#EXTINF:0, tvg-id="145" tvg-name="Mei Ah Movies Movies" tvg-logo="http://kingtv.dynu.com/tvlogo/MeiAhMovie.png" group-title="MOVIES II",TW:Mei Ah Movies_
+http://31.42.187.37:25461/watchpad13158/1234/106
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:HBO(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/197972
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:HBO Family(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/197055
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:HBO Hits(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/196480
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:HBO Signature(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/221948
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Cinemax(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/197964
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Bioskop Indonesia(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/264801
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Celestial Movies(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/165065
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Chinese Drama(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/298516
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:CinemaWorld(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/165082
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Citra Drama(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/264748
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:FLIK(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/165095
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Galaxy(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/264773
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Galaxy Premium(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/264774
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Hits(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/165085
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Hits Movies(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/221947
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:My Cinema(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/298553
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Rock Entertaiment(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/298565
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Thrill(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/157580
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:TVN
+http://iptvtree.net:8080/9a9c2e24/d3850543/197965
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:TVN Movies(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/157596
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="MOVIES II",ID:Zee Bioskop(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/157584
+#EXTINF:0, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="MOVIES II", 🇲🇾 LOTUS.MACAU(3)
+http://iptvtree.net:8080/9a9c2e24/d3850543/304362
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: PREMIER 1
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605257.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: PREMIER 2
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605325.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: BOO
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605290.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: CCTV4
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605292.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: Celestial
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605293.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: Celestial Classic Movies
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605291.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: HBO Family
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605314.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: HBO Hits
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605315.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: HBO Signature
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605298.ts
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="MOVIES II",🇲🇾: Showcase Movies
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605340.ts
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
