@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://1s1.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/indonesia/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
-http://ktv.im:8080/0567616054/0567616054/101155
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
 https://allcutv.rctiplus.id/mnctv2023.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
 https://1s1.rctiplus.id/mnctv2023.m3u8
 
@@ -23,9 +23,9 @@ http://filex.tv:8080/live/tahirbutt/003092/302278.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
-http://ktv.im:8080/0567616054/0567616054/101112
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 https://1s1.rctiplus.id/gtv2023.m3u8
 
@@ -41,15 +41,15 @@ http://opplex.tv:8080/3116580700/0700/350972
 http://ktv.im:8080/0567616054/0567616054/101131
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-https://bit.ly/3Sc6EFk
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-http://103.160.205.142:9999/stream/channelid/7308616?profile=pass
+https://bit.ly/3Sc6EFk
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+http://103.160.205.142:9999/stream/channelid/7308616?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
 http://xtv.ooo:8080/0966717777/0966717777/350997
