@@ -1,0 +1,295 @@
+#EXTM3u
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", INDOSIAR.(VIDIO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=205
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", INDOSIAR.mpd.(VIDIO)ott.nav
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+https://kametv.my.id/pdx/play.mpd?id=205
+
+
+#EXTINF:-1  tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="ShareExt@Relax", SCTV.(VIDIO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=204
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="ShareExt@Relax", SCTV.mpd.(VIDIO)ott.nav
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+https://kametv.my.id/pdx/play.mpd?id=204
+
+#EXTINF:-1  tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="ShareExt@Relax", MOJI.(VIDIO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=206
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", RCTI(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", INEWS(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101132
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", MNCTV(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101112
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RCTI•(ID)	
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(ts)
+http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar.(3)
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(cdn)
+http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx)
+http://opplex.tv:8080/3116580700/0700/350972
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv1)
+http://xtv.ooo:8080/0966717777/0966717777/350972
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv2)
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MOJI_(opx)
+http://opplex.tv:8080/3116580700/0700/350997
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MOJI_(xtv)
+http://xtv.ooo:8080/0966717777/0966717777/350997
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="ShareExt@Relax", SCTV.(3)
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
+
+
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT(A)
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(A)
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(A)
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
+
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO SUPERSPORT 4(A)
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
+
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO SUPERSPORT 4(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.PL.SPORTS
+http://shareext@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.2
+http://shareext@15.235.181.35/live.ts?channelId=129129&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.3
+http://shareext@15.235.181.35/live.ts?channelId=129130&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.4
+http://shareext@15.235.181.35/live.ts?channelId=129131&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.5
+http://shareext@15.235.181.35/live.ts?channelId=129132&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.6
+http://shareext@15.235.181.35/live.ts?channelId=129133&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.7
+http://shareext@15.235.181.35/live.ts?channelId=129134&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports7
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES", 🇲🇾 BOO
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37457
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾 SHOWCASE MOVIE
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37428
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 HBO HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 HBO Hits HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 HBO Family HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 HBO Signature HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 Cinemax
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 FLIK HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 Galaxy Premium 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29603
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 Galaxy
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29604
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 ATV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29899
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 Drama Korea LBS
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35769
+
+
+
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Maluku
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Bangka
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
