@@ -14,19 +14,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
-
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI (Op)
 http://opplex.tv:8080/3116580700/0700/351023
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV HD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV HD
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3261,7 +3258,10 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://brandslogo.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="KIDS",DISNEY CHANNEL
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/small/273-2735017_disney-xd-disney-xd-logo-new.png" group-title="KIDS",DISNEY XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:0, group-title="KIDS",HOREE (I)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3340,11 +3340,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/M_Kidz.png" group-title="KIDS",MKIDZ
 
  
-#EXTINF:0, group-title="KIDS",MOONBUG TV
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-nickelodeon-283578.png?f=webp" group-title="KIDS",NICKELODEON EAST
+http://143.244.60.30/NICKELODEON/index.m3u8
 
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-nickelodeon-283578.png?f=webp" group-title="KIDS",NICKELODEON EAST
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:0, group-title="KIDS",NICK JR
-
+#EXTINF:0, tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/2sf9snE4e6DQn8hqy3bx2Q/16f83dc7eace769296c5bdc20a45b945/Nicktoons.png?w=256&h=256&fit=pad&f=right" group-title="KIDS",NICKTOONS
+http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:0, group-title="KIDS",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
@@ -3366,41 +3369,11 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0, group-title="KIDS",SPACETOONS
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png" group-title="KIDS",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:0, group-title="KOREA",DRAKOR PLUS
 
-#EXTINF:0, group-title="KOREA",CBS Tv
-
-
-#EXTINF:0, group-title="KOREA",NEW KID TV
-
-
-#EXTINF:0, group-title="KOREA",NADOO KOREA
-
-
-#EXTINF:0, group-title="KOREA",One
-
-
-#EXTINF:0, group-title="KOREA",One
-
-
-#EXTINF:0, group-title="KOREA",Sony One
-
-
-#EXTINF:0, group-title="KOREA",Sony One
-
-
-#EXTINF:0, group-title="KOREA",Gem
-
-
-#EXTINF:0, group-title="KOREA",Gem
-
-
-#EXTINF:0, group-title="KOREA",Gem
-
-
-#EXTINF:0, group-title="KOREA",K-Drama
 
 #EXTINF:0, group-title="KOREA",K+
 http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
