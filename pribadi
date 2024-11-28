@@ -23,9 +23,6 @@ http://opplex.tv:8080/3116580700/0700/351023
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV HD
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
@@ -56,16 +53,11 @@ https://bit.ly/3Sc6EFk
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:0, tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://kametv.my.id/pdx/play.m3u8?id=204
+
+
 
 #EXTINF:0, tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://kametv.my.id/pdx/play.m3u8?id=206
+
 
 #EXTINF:0, tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
 http://opplex.tv:8080/3116580700/0700/350997
