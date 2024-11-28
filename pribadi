@@ -3224,7 +3224,7 @@ https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
 #EXTINF:0, tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2017/06/Aniplus-Logo-Still-Video.jpg" group-title="KIDS",AniPlus
-
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=aniplus-hd
 
 #EXTINF:0, group-title="KIDS",Baby First
 
@@ -3233,9 +3233,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp
 
 
 #EXTINF:0, tvg-logo="https://img1.pngdownload.id/20180610/hrz/kisspng-cartoon-network-studios-logo-television-channel-cartoon-network-match-land-5b1d8f3cad6399.0636508515286638687102.jpg" group-title="KIDS",CARTOON NETWORK
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
-#EXTINF:0, group-title="KIDS",CARTOON NETWORK
 
 #EXTINF:0, group-title="KIDS",CBEEBIES
 
@@ -3330,7 +3328,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
 #EXTINF:0, group-title="KIDS",MIAOMI
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/M_Kidz.png" group-title="KIDS",MKIDZ
-
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
  
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-nickelodeon-283578.png?f=webp" group-title="KIDS",NICKELODEON EAST
 http://143.244.60.30/NICKELODEON/index.m3u8
