@@ -26,7 +26,7 @@ http://opplex.tv:8080/3116580700/0700/351023
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="OPANG",RCTI (Trans)
-#https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
