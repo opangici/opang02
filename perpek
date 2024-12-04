@@ -6,15 +6,15 @@ https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
-https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/indonesia/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
-http://opplex.tv:8080/3116580700/0700/351023
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 http://extraott.com/live/6945574629/7169628753/400200742.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 http://extraott.com/live/6945574629/7169628753/191803.ts
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
 https://allcutv.rctiplus.id/mnctv2023.m3u8
@@ -36,15 +36,15 @@ https://allcutv.rctiplus.id/gtv2023.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-http://xtv.ooo:8080/359052742/470428329/350972
+
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+http://xtvplayer.top:8080/live/sanushop/12345678/350972.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1604.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-http://opplex.tv:8080/3116580700/0700/350972
+http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-http://ktv.im:8080/0567616054/0567616054/101131
+
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
