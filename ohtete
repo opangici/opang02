@@ -14,16 +14,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI (Op)
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI (Op
 http://opplex.tv:8080/3116580700/0700/351023
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="OPANG",RCTI (Trans)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV HD
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
@@ -59,16 +64,11 @@ https://bit.ly/3Sc6EFk
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:0, tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://kametv.my.id/pdx/play.m3u8?id=204
+
+
 
 #EXTINF:0, tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://kametv.my.id/pdx/play.m3u8?id=206
+
 
 #EXTINF:0, tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
 http://opplex.tv:8080/3116580700/0700/350997
@@ -141,10 +141,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://kametv.my.id/pdx/play.m3u8?id=205
+http://xtv.ooo:8080/359052742/470428329/350972
 
 #EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
@@ -159,7 +156,7 @@ http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
-https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -919,6 +916,40 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
+
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",INDOSIAR HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
+
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",INDOSIAR-HD(xtvplayer)
+http://xtvplayer.top:8080/live/sanushop/12345678/350972.ts
+
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎RCTI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505867
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎MNC TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505855
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎GTV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505835
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎TV ONE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505878
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎INDOSIAR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎INEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505850
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎MOJI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎NET
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505860
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎TRANS 7
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505875
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎TRANS TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505876
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",ID ▎TV 9 NUSANTARA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505877
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎KOMPAS TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505851
+#EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1", ID ▎METRO TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505853
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",ELSHINTA TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3235,7 +3266,7 @@ https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
 #EXTINF:0, tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2017/06/Aniplus-Logo-Still-Video.jpg" group-title="KIDS",AniPlus
-
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=aniplus-hd
 
 #EXTINF:0, group-title="KIDS",Baby First
 
@@ -3244,9 +3275,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp
 
 
 #EXTINF:0, tvg-logo="https://img1.pngdownload.id/20180610/hrz/kisspng-cartoon-network-studios-logo-television-channel-cartoon-network-match-land-5b1d8f3cad6399.0636508515286638687102.jpg" group-title="KIDS",CARTOON NETWORK
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
-#EXTINF:0, group-title="KIDS",CARTOON NETWORK
 
 #EXTINF:0, group-title="KIDS",CBEEBIES
 
@@ -3261,7 +3290,10 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://brandslogo.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="KIDS",DISNEY CHANNEL
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/small/273-2735017_disney-xd-disney-xd-logo-new.png" group-title="KIDS",DISNEY XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:0, group-title="KIDS",HOREE (I)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3338,13 +3370,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
 #EXTINF:0, group-title="KIDS",MIAOMI
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/M_Kidz.png" group-title="KIDS",MKIDZ
-
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
  
-#EXTINF:0, group-title="KIDS",MOONBUG TV
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-nickelodeon-283578.png?f=webp" group-title="KIDS",NICKELODEON EAST
+http://143.244.60.30/NICKELODEON/index.m3u8
 
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-nickelodeon-283578.png?f=webp" group-title="KIDS",NICKELODEON EAST
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:0, group-title="KIDS",NICK JR
-
+#EXTINF:0, tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/2sf9snE4e6DQn8hqy3bx2Q/16f83dc7eace769296c5bdc20a45b945/Nicktoons.png?w=256&h=256&fit=pad&f=right" group-title="KIDS",NICKTOONS
+http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:0, group-title="KIDS",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
@@ -3366,41 +3401,11 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0, group-title="KIDS",SPACETOONS
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png" group-title="KIDS",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:0, group-title="KOREA",DRAKOR PLUS
 
-#EXTINF:0, group-title="KOREA",CBS Tv
-
-
-#EXTINF:0, group-title="KOREA",NEW KID TV
-
-
-#EXTINF:0, group-title="KOREA",NADOO KOREA
-
-
-#EXTINF:0, group-title="KOREA",One
-
-
-#EXTINF:0, group-title="KOREA",One
-
-
-#EXTINF:0, group-title="KOREA",Sony One
-
-
-#EXTINF:0, group-title="KOREA",Sony One
-
-
-#EXTINF:0, group-title="KOREA",Gem
-
-
-#EXTINF:0, group-title="KOREA",Gem
-
-
-#EXTINF:0, group-title="KOREA",Gem
-
-
-#EXTINF:0, group-title="KOREA",K-Drama
 
 #EXTINF:0, group-title="KOREA",K+
 http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
