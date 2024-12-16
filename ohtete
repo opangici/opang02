@@ -2909,6 +2909,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/4TQpW2y/my-cinema.png" group-title="MOVIES", MY CINEMA (M)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2940,10 +2945,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/W5zXn10/paramount.png" group-title="MOVIES", PARAMOUNT (M)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/YL2qyDN/galaxy-premium.png" group-title="MOVIES", GALAXY PREMIUM (M)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3036,21 +3040,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff1
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIES",HBO Hits
 
-#EXTINF:0, tvg-logo="https://p1.hiclipart.com/preview/602/146/360/television-channel-logo-icons-axn-png-icon.jpg" group-title="MOVIES",AXN
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="MOVIES",ROCK ENTERTAINMENT
-http://210.210.155.37/dr9445/h/h16/01.m3u8
- 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="MOVIES",ROCK ACTION
-http://210.210.155.37/dr9445/h/h15/01.m3u8
-
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7CEvBzPxqUOgwINekoyE281BTQxsFu8opxw&usqp=CAU" group-title="MOVIES",ROCK EXTREME
 
 #EXTINF:0, tvg-logo="https://i0.wp.com/gdplayer.tv/assets/img/logo/cinema-world.png" group-title="MOVIES",CINEMA WORLD
-http://rr.dens.tv/h/h04/index.m3u8
+
 
 #EXTINF:0, tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES",CINEMAX
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
+
 
 #EXTINF:0, tvg-logo="https://n7.nextpng.com/sticker-png/427/772/sticker-png-cine-cinematography-television-logo-classic-television-blue-text-photography.png" group-title="MOVIES",Classic Cinema
 
@@ -3060,7 +3056,7 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
-https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png" group-title="MOVIES",CELESTIAL MOVIE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3091,7 +3087,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png" group-title="MOVIES", Lotus Macau
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
 
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/mudae/images/1/1e/Horror_Genre_Logo.png" group-title="MOVIES",HORROR MACHINE
@@ -3106,9 +3102,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:0, tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="MOVIES",WOWOW
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II", 🇲🇾 BOO
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇾 SHOWCASE MOVIE
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37428.ts
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 HBO HD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
 #EXTINF:0, tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="MOVIES II",🇲🇨 HBO Hits HD
