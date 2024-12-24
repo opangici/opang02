@@ -69,9 +69,9 @@ https://zozotv.xyz:443/live/lisshomestay/@1212/475.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
-http://ktv.im:8080/0567616054/0567616054/101148
+https://mantul.biz.id:443/aruba/aruba/35.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
-http://103.183.10.7:9900/stream/channelid/1115009601?profile=pass
+
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANSTV hd
 https://mantul.biz.id:443/aruba/aruba/240.ts
@@ -129,6 +129,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KOMPASTV_HD
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV_HD
+https://mantul.biz.id:443/aruba/aruba/214.ts
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
@@ -199,6 +201,8 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO
+http://iptv12k.com:35461/654321/123456/1748
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO HD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO SIGN HD
