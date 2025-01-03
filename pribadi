@@ -3517,7 +3517,16 @@ http://xciptv.8888play.one:80/228463308/r576049x/18776
 http://xciptv.8888play.one:80/228463308/r576049x/18777
 #EXTINF:0, tvg-logo="https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=hbo" group-title="HBO",HBO XTREME SD
 http://xciptv.8888play.one:80/228463308/r576049x/18778
-
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO EAST
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO2 EAST
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO COMEDY EAST
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO FAMILY EAST
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO ZONE EAST
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jakarta
