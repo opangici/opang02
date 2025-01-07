@@ -2127,7 +2127,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 #EXTINF:0, group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/118.jpg", .TVRI Sport
-http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI_Sport|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 #EXTINF:0, group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg", .KBS Korea (Free Trial)
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:0, group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg", .KBS World (Free Trial)
@@ -2137,12 +2137,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;useri
 #EXTINF:0, group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", .Motorvision+
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:0, group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", .MotoRRacing TV
-http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 #EXTINF:0, group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/104.jpg", .FREEDOM
 http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FREEDOM|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",JAKTV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",MAGNA CHANEL_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
@@ -2151,7 +2151,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",NUSANTARA_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",Mekkah Tv_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
@@ -2166,7 +2166,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",MADU TV NUSANTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",JAWA POS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
@@ -2195,13 +2195,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",IDTV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",TVRI_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",TVRI Sport_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",METRO TV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
@@ -2223,30 +2223,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",DENS Food Chanel_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",Celestial Movies_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",CCM_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",Rock Entertainment_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",Rock Action_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",TVN Movies_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",TVN_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",K+_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",KIX_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",Kartoon SIS_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
