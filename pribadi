@@ -2675,7 +2675,10 @@ http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/85691
 https://s.id/mnctv_play_shareext-xs
 
 #EXTINF:0, tvg-logo="https://img2.pngdownload.id/20180623/uw/kisspng-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-5b2ed93e6f5b62.0642285115297969264561.jpg" group-title="INDONESIA",MNCTV
+http://extraott.com/live/6945574629/7169628753/400200743.ts
 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="INDONESIA",RCTI
+http://extraott.com/live/6945574629/7169628753/191803.ts
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="INDONESIA",GTV
 https://s.id/gtv_play_shareext-xs
@@ -2689,13 +2692,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:0, tvg-logo="https://img2.pngdownload.id/20180402/vaq/kisspng-sctv-television-channel-tvone-broadcasting-about-us-5ac246cabf1068.7562104415226815467826.jpg" group-title="INDONESIA",SCTV 
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="INDONESIA",MOJI
-
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="INDONESIA",MOJI
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+https://mantul.biz.id:443/inetwork/gayanet12/60.ts
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
 
@@ -2808,7 +2811,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3
 #EXTINF:0 group-title="INDONESIA",Banjar TV
 
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/236x/3b/81/8e/3b818e804278b7cc3b5d1b3890608e60.jpg" group-title="INDONESIA",BANTEN TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png" group-title="INDONESIA",BANTEN TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1521949298.m3u8
 
 #EXTINF:0 tvg-logo="https://jpmtelevisi.com/img/sabanten.png" group-title="INDONESIA",Sabanten Banten
@@ -2842,7 +2845,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Logo_BRTV.png/440px-Logo_BRTV.png" group-title="INDONESIA",BRTV
 
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/947104215779893248/eGUtjLDI_400x400.jpg" group-title="INDONESIA",BUNGOTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="INDONESIA",BUNGOTV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w1238136179.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/47/Citratv_%282014%29.png" group-title="INDONESIA",CITRA TV LAMONGAN
@@ -2900,7 +2903,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w1238136179.m3u8
 #EXTINF:0, tvg-logo="https://humabetang.com/public/uploads/mobile/icons/eZaQoM1KTVK99yyeF8XP8s54XXjrsJFVD0QIHuk9.png" group-title="INDONESIA",HUMA BETANG TV
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Inspira_TV.png" group-title="INDONESIA",INSPIRA TV
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0FdH52XIyawsgVcP1kAcyl6OwkS22xwDPA&s" group-title="INDONESIA",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://2.bp.blogspot.com/_knbMLJw0sQA/Syby-VMQLeI/AAAAAAAAAAU/LU-FvZzkXm4/w1200-h630-p-k-no-nu/logojambitv.jpg" group-title="INDONESIA",JAMBI TV
@@ -2938,7 +2941,7 @@ https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.
 http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png" group-title="INDONESIA",KSTV
-https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
 
 #EXTINF:0, group-title="INDONESIA",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
@@ -2954,10 +2957,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w36651818_b878000_sle
 
 #EXTINF:0, group-title="INDONESIA",MAPTV
 
-#EXTINF:0, group-title="INDONESIA",TV KESEHATAN
+#EXTINF:0, tvg-logo="https://images.seeklogo.com/logo-png/36/2/kementerian-kesehatan-ri-logo-png_seeklogo-365665.png" group-title="INDONESIA",TV KESEHATAN
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/48/MGS_TV_Bogor.jpg" group-title="INDONESIA",MGSTV BOGOR
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MGSTV_(2015).png" group-title="INDONESIA",MGSTV BOGOR
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
 
 #EXTINF:0, group-title="INDONESIA",MJTV
@@ -2996,10 +2999,10 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="INDONESIA",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d9/Riau_TV.png" group-title="INDONESIA",RTV Riau
-http://122.248.43.138:1935/ch11/myStream/live.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil-HD.png" group-title="INDONESIA",RUANG TRAMPIL
 
@@ -3008,7 +3011,7 @@ http://122.248.43.138:1935/ch11/myStream/live.m3u8
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:0 group-title="INDONESIA",Sambas TV
-https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9d/SBO_TV_2017.png" group-title="INDONESIA",SBOTV
 
@@ -3017,7 +3020,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3
 http://116.254.112.74:80/hls/cakralive.m3u8
 
 #EXTINF:0 group-title="INDONESIA",Singkawang TV
-https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w104533869.m3u8
+
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SIMPANG5_TV_2011.png/revision/latest?cb=20181001030020" group-title="INDONESIA",SIMPANG5 TV
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
@@ -3029,21 +3032,21 @@ http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://stv.co.id/assets/images/logo-head.png" group-title="INDONESIA",STV Samarinda
-http://122.248.43.138:1935/ch19/myStream/live.m3u8
+
 
 #EXTINF:0 group-title="INDONESIA",SULTRA TV
-http://122.248.43.138:1935/ch20/myStream/live.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/463-4636269_television-png-transparent-images-transparent-background-tv-logo.png" group-title="INDONESIA",Tanjung Pinang TV
-http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://tatv.co.id/wp-content/uploads/2020/04/ta-channel-sho.png" group-title="INDONESIA",TATV SOLO
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTINF:0 group-title="INDONESIA",TEGARTV
-https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:0 group-title="INDONESIA",TIMORTV
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="INDONESIA",TIMORTV
 https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
 
 #EXTINF:0 tvg-logo="https://i7.pngguru.com/preview/747/476/874/tv9-nusantara-television-channel-streaming-media-others.jpg" group-title="INDONESIA",TV9 NUSANTARA
@@ -3052,29 +3055,29 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/d3/d3/b6/d3d3b652240bd60df6246205cc7ef394.png" group-title="INDONESIA",TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:0 tvg-logo="https://parabolaku.com/wp-content/uploads/2016/08/tv-desa.png" group-title="INDONESIA",TV Desa
+#EXTINF:0 tvg-logo="https://tvdesa.id/wp-content/uploads/2020/10/icon-mytvdesa-logo-200.png" group-title="INDONESIA",TV Desa
 https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg" group-title="INDONESIA",TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_TV_Tabalong.png" group-title="INDONESIA",TABALONG TV
+#EXTINF:0 tvg-logo="https://tvtabalong.com/wp-content/uploads/2024/10/logo-tv-tabalong.png" group-title="INDONESIA",TABALONG TV
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTINF:0 tvg-logo="://pbs.twimg.com/profile_images/1245105665/logo_400x400.jpg group-title="INDONESIA",TVTPI
-http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
+
 
 #EXTINF:0 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/f4/6d/e3f46df4-7105-01c2-4ee9-030152c744e3/source/512x512bb.jpg" group-title="INDONESIA",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Useeprime.png" group-title="INDONESIA",USEE PRIME
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTOHD.png" group-title="INDONESIA",USEE PHOTO
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTOHD.png" group-title="INDONESIA",USEE PHOTO
-http://tevemobile.us.to/sc/uc/play.m3u8?channel=useephoto
+
 
 
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29899
