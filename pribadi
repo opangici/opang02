@@ -2806,7 +2806,7 @@ https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352
 https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6a/Backup_of_Bandung_TV.png" group-title="INDONESIA",Bandung TV
-
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:0 group-title="INDONESIA",Banjar TV
 
@@ -3034,8 +3034,8 @@ http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://stv.co.id/assets/images/logo-head.png" group-title="INDONESIA",STV Samarinda
 
 
-#EXTINF:0 group-title="INDONESIA",SULTRA TV
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="INDONESIA",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
 
 #EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/463-4636269_television-png-transparent-images-transparent-background-tv-logo.png" group-title="INDONESIA",Tanjung Pinang TV
 
@@ -3079,8 +3079,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:0 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTOHD.png" group-title="INDONESIA",USEE PHOTO
 
 
-
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29899
 
 #EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES", IMC (M)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
