@@ -202,7 +202,7 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO
-http://iptv12k.com:35461/654321/123456/1748
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO Fam
 http://iptv12k.com:35461/654321/123456/1746
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO SIGN HD
@@ -211,6 +211,23 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HBO FAMILY HD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO EAST
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO2 EAST
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO COMEDY EAST
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO FAMILY EAST
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO ZONE EAST
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+
+
+
+
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINEMAX HD
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", FLIK
