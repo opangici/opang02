@@ -4603,19 +4603,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
 #EXTINF:0, tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0P5Enod7b6NF8gXUfJ_6_oY9XSveuad06qkR6Sp2dm4fT9EgdpPaifIrfyAMGFQt9WOmB_N811gbfSCCvJ5rbITrgdW_8i5Cd-tBeaIDgqBV4lnhWJhcZmOb_H8_5xle0JJwCTZaa-W8zXn2jwZBrdVLlAKPtKjFVb5_gZHGEjTdPLTYfC0KJklWUMDs/s256/CA256x.png" group-title="SPORT", TV85
-https://hw1.jemtv.com/app/tv85/chunks.m3u8
+
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT", PREMIERE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT", PREMIERE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
 
 #EXTINF:0,  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" group-title="SPORT",TH:TRUE BEINSPORTS 1
 
@@ -4645,10 +4645,10 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/o
 
 
 #EXTINF:0,,  tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORT",TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 
 #EXTINF:0,,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORT",PTV SPORTS HD
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", Hub Premier 1 FHD VIP SPORTS 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112231
@@ -4677,27 +4677,6 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112199
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",ORTS", HK Sports Prime FHD VIP SPORTS 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112195
-
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", MY ▎ASTRO SUPERSPORT
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656970
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", MY ▎ASTRO SUPERSPORT 2
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656971
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", MY ▎ASTRO SUPERSPORT 3
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656972
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", MY ▎ASTRO SUPERSPORT 4
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656973
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", MY ▎EUROSPORT
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656964
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", MY ▎BEIN SPORTS
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656967
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", MY ▎WWE NETWORK
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656966
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", MY ▎SPORTS SPO TV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656867
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",  MY ▎SPOTV2
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656927
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",  MY ▎ASTRO CRICKET
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656962
 
 
 #EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/MPKT1pNxKHBNPApQpP-oHMSKPZi-kyD9Aj1vGtOCl-YzJXTBz3sexf7bULF4dCLjqg=s256-rw" group-title="SPORT", MCOT (THAI)
@@ -4775,22 +4754,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8MTZ3CmBMkAVqvf09DU6SOaS6rfXTlr74-g&s" group-title="SPORT", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", PREMIERSPORTS 1
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6555/index.m3u8
-
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SKY SPORT FOOTBALL
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7336/index.m3u8
-
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SETANTA SPORTS 1
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/271/index.m3u8
-
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SETANTA SPORTS 2
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/270/index.m3u8
-
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", LIVE CHAMPION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01010873199d66a055cfd9b3383805b3:f4fd7461c2eda88e6185f2b4a7840a20
-
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", FIGHT SPORT
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4815,28 +4778,6 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT", ASTRO SUPERSPORT
-
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT", ASTRO SUPERSPORT
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT", ASTRO SUPERSPORT
-
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT", ASTRO SUPERSPORT
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT", ASTRO SUPERSPORT
-
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT", ASTRO SUPERSPORT
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT", ASTRO SUPERSPORT
-
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT", ASTRO SUPERSPORT
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png/revision/latest/scale-to-width-down/200?cb=20190309144550" group-title="SPORT", LALIGA
 
