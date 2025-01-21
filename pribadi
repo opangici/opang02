@@ -14,10 +14,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI (Op
-http://opplex.tv:8080/3116580700/0700/351023
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="OPANG",RCTI (Trans)
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI (Trans)
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -50,8 +49,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG",GLOBAL TV HD
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101112
 
 #EXTINF:0, tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -71,12 +68,6 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
 #EXTINF:0, tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
-http://opplex.tv:8080/3116580700/0700/350997
-
-#EXTINF:0, tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
-http://xtv.ooo:8080/0966717777/0966717777/350997
-
-#EXTINF:0, tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
 https://bit.ly/3MeFJVc
 
 #EXTINF:0, tvg-id="="TRANS7 HD" tvg-name="Trans 7" tvg-url="https://yamcode.com/raw/trans7-guide" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png" group-title="OPANG",Trans 7
@@ -93,7 +84,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
@@ -114,7 +105,7 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
