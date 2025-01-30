@@ -3367,7 +3367,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
 
-#EXTINF:0, tvg-logo="https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg" group-title="SHARE"MOVIES",Gem TV
+#EXTINF:0, tvg-logo="https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg" group-title="MOVIES",Gem TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3696,57 +3696,6 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png" group-title="KIDS",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:0, group-title="KOREA",DRAKOR PLUS
-
-
-#EXTINF:0, group-title="KOREA",K+
-http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
-
-#EXTINF:0, group-title="KOREA",K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
-
-#EXTINF:0, group-title="KOREA",Nadoo Korean
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-
-#EXTINF:0, group-title="KOREA",SBS
-https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:0, group-title="KOREA",SBS
-https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:0, group-title="KOREA",SBS STAR
-
-
-#EXTINF:0, group-title="KOREA",K-Drama
-
-#EXTINF:0, group-title="KOREA",tvN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
-
-#EXTINF:0, group-title="KOREA",tvN
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
-
-#EXTINF:0, group-title="KOREA",tvN 🇰🇷
-https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000128W
-
-#EXTINF:0, group-title="KOREA",tvN 🇰🇷
-https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200013UR
-
-#EXTINF:0, group-title="KOREA",tvN 🇰🇷
-https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000248R
-
-#EXTINF:0, group-title="KOREA",tvN Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="ORIENTAL",澳視MACAU
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
@@ -4347,13 +4296,13 @@ https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:0, group-title="NEWS & SCIENCE",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:0, https://livetvcentral.com/imgs/tvs/6983.jpg" group-title="NEWS & SCIENCE",100% Automoto
+#EXTINF:0, tvg-logo="https://livetvcentral.com/imgs/tvs/6983.jpg" group-title="NEWS & SCIENCE", Automoto
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",CGTN DOCUMENTARY
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:0, group-title="NEWS & SCIENCE",CHANNEL NEWS ASIA
+
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Channel_NewsAsia.svg/revision/latest/scale-to-width-down/250?cb=20190401004018" group-title="NEWS & SCIENCE",CHANNEL NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",CNBC
@@ -4369,39 +4318,32 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 #EXTINF:0, group-title="NEWS & SCIENCE",DISCOVERY CHANNEL
-http://supersonictv.live:8080/439090/246943/22074
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",DISCOVERY FAMILY
-http://supersonictv.live:8080/439090/246943/22076
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",DISCOVERY SCIENCE
-http://supersonictv.live:8080/439090/246943/22077
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",DUBAI International
 
 #EXTINF:0, group-title="NEWS & SCIENCE",ET LIVE
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",FAIL ARMY
-https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",FAIL ARMY
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",FASHION TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",FASHION TV Midnight (18+)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:0, group-title="NEWS & SCIENCE",FASHION TV PARIS
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
-#EXTINF:0, group-title="NEWS & SCIENCE",FASHION MIDNIGHT SECRETS (18+)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 
-#EXTINF:0, group-title="NEWS & SCIENCE",FASHION MIDNIGHT SECRETS (18+)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",Fish Tv
 
@@ -4409,7 +4351,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 
 
 #EXTINF:0, group-title="NEWS & SCIENCE",FRANCE24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",GOTOLUXE
 
@@ -4424,19 +4366,18 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 
 #EXTINF:0, group-title="NEWS & SCIENCE",HUNT CHANNEL
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",IN WILD
-https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:0, tvg-logo="https://assets.iptv2022.com/static/channel/10625/logo_256_1660892023.png" group-title="NEWS & SCIENCE",INSIGHT TV
-https://insighttv-vizio.amagi.tv/playlist.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",Love Nature ENG
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",Love Nature SPA
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
