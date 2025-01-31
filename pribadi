@@ -4305,8 +4305,8 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Channel_NewsAsia.svg/revision/latest/scale-to-width-down/250?cb=20190401004018" group-title="NEWS & SCIENCE",CHANNEL NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:0, group-title="NEWS & SCIENCE",CNBC
-
+#EXTINF:0, group-title="NEWS & SCIENCE",CNBC UK
+http://92.114.85.77:8000/play/a0b6
 
 #EXTINF:0, group-title="NEWS & SCIENCE",CNN
 
@@ -4332,10 +4332,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 #EXTINF:0, group-title="NEWS & SCIENCE",FAIL ARMY
-
-
-#EXTINF:0, group-title="NEWS & SCIENCE",FAIL ARMY
-
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",FASHION TV
 
