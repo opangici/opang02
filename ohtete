@@ -3104,7 +3104,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:0, tvg-logo="https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=hbo" group-title="MOVIES",HBO
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
 
 #EXTINF:0, tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits (T)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3116,7 +3117,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:0, tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 
 #EXTINF:0, tvg-logo="https://logodix.com/logo/789245.png" group-title="MOVIES",HBO Family (T)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3128,7 +3130,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:0, tvg-logo="https://logodix.com/logo/789245.png" group-title="MOVIES",HBO Family
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature (T)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3140,7 +3143,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
 
 #EXTINF:0, tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax (T)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
