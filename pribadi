@@ -3293,6 +3293,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518" group-title="MOVIES", MACAU LOTUS
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304362
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="MOVIES", CHINESE DRAMA
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298516
+
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest/scale-to-width-down/732?cb=20220707061525&path-prefix=vi" group-title="MOVIES", CINEMA WORLD
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES", CINEMAX
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/Z8m2bHz/zee-bioskop.png" group-title="MOVIES", ZEE BIOSKOP (V)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
