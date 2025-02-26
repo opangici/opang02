@@ -3085,6 +3085,9 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
+#EXTINF:0, tvg-logo="" group-title="MOVIES", ETV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
+
 #EXTINF:0, tvg-logo="https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png" group-title="MOVIES", FLIK
 https://mantul.biz.id:443/aruba/aruba/223.ts
 
