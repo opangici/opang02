@@ -3085,6 +3085,9 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
+#EXTINF:0, tvg-logo="" group-title="MOVIES", ETV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
+
 #EXTINF:0, tvg-logo="https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png" group-title="MOVIES", FLIK
 https://mantul.biz.id:443/aruba/aruba/223.ts
 
@@ -3392,9 +3395,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png" group-title="MOVIES", Lotus Macau
-
-
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/mudae/images/1/1e/Horror_Genre_Logo.png" group-title="MOVIES",HORROR MACHINE
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
@@ -3413,6 +3413,30 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest?cb=20180131140829" group-title="MOVIES",WOWOW CINEMA
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:0, group-title="MOVIES", CINEMAX EAST
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", COMEDY CENTRAL EAST
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", EPIX EAST
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", FOX MOVIE
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", HALLMARK EAST
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", HBO EAST
+https://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", HBO2 EAST
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", PARAMOUNT NETWORK EAST
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:0, tvg-logo="https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=hbo" group-title="HBO",HBO + FHD
 http://xciptv.8888play.one:80/228463308/r576049x/18763
@@ -3506,6 +3530,7 @@ http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO ZONE EAST
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jakarta
@@ -3883,7 +3908,7 @@ http://23.237.10.66:16492
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",ALquran Alkareem
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
+https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 
 #EXTINF:0, group-title="RELIGY",Assunah
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
@@ -3922,7 +3947,7 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 
 #EXTINF:0, group-title="RELIGY",BRITISH MUSLIM TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",CHANNEL4U
 
@@ -3966,8 +3991,8 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:0, tv-logo="https://mqtv.co.id/wp-content/uploads/2021/04/favicon.png" group-title="RELIGY",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:0, group-title="RELIGY",NABAWI TV
-
+#EXTINF:0, group-title="RELIGY", TV9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 #EXTINF:0, group-title="RELIGY",NIAGATV
 
@@ -3985,76 +4010,65 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 #EXTINF:0, group-title="RELIGY",SALAM TV DELI SERDANG
-http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",SALING SAPA
-https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",SURAU TV PADANG
-http://119.235.249.58:1935/surautv/live/chunklist_w1069494828.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",SYIAR
-http://flash.klikstream.net:1935/sedekahtv/live/playlist.m3u8?wowzasessionid=1208595343
+
 
 #EXTINF:0, group-title="RELIGY",TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",TAWAF TV
-https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
 
 #EXTINF:0, group-title="RELIGY",TEGAR TV
-http://wms.klikhost.com/tegartv/live/playlist.m3u8
 
-#EXTINF:0, group-title="RELIGY",TEGAR TV
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-
-#EXTINF:0, group-title="RELIGY",SALING SAPA TV
-http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",TAWAFTV
-http://tevemobile.us.to/sc/uc/play.m3u8?channel=tawaftv
+
 
 #EXTINF:0, group-title="RELIGY",NU CHANNEL
-http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",TV MUHAMMADIYAH
-rtmp://118.97.183.222/discover/muhammadiyahtv
+
 
 #EXTINF:0, group-title="RELIGY",tvMu
 https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF:0, group-title="RELIGY",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",WESAL TV
-http://119.235.249.58:1935/wesaltv/live/playlist.m3u8
 
-#EXTINF:0, group-title="RELIGY",WESAL TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
 #EXTINF:0, tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="RELIGY",I AM CHANNEL
-http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist_w1606290350.m3u8
 
 #EXTINF:0, group-title="RELIGY",AINOS TV
-http://stream1.ninmedia.tv/ainostv/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",CATOLIC TV
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_5_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, group-title="RELIGY",REFORMED21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",HIDUPTV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",U CHANNEL
-http://119.235.249.58:1935/uchannel/live/chunklist_w1383758723.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",GOSPEL TRUTH TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
 
 #EXTINF:0, group-title="RELIGY",LIFE TV
-https://anevia115.mncnow.id/live/eds/Life/sa_hls/Life-avc1_2499968=8-mp4a_98800_ind=2.m3u8
+
 
 #EXTINF:0, tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[001] Surah Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
@@ -4508,13 +4522,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #EXTINF:0, group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0, tvg-logo="https://images.radio.orange.com/radios/large_nagaswara_fm_radiotemen.png" group-title="MUSIC",NAGASWARA 
-
-
-#EXTINF:0, tvg-logo="https://images.radio.orange.com/radios/large_nagaswara_fm_radiotemen.png" group-title="MUSIC",NAGASWARA KOPLO
-
-
-#EXTINF:0, tvg-logo="https://images.radio.orange.com/radios/large_nagaswara_fm_radiotemen.png" group-title="MUSIC",NAGASWARA POP
 
 #EXTINF:-1, group-title="MUSIC",VEVO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -4539,6 +4546,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPOTV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPOTV2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:0, tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0P5Enod7b6NF8gXUfJ_6_oY9XSveuad06qkR6Sp2dm4fT9EgdpPaifIrfyAMGFQt9WOmB_N811gbfSCCvJ5rbITrgdW_8i5Cd-tBeaIDgqBV4lnhWJhcZmOb_H8_5xle0JJwCTZaa-W8zXn2jwZBrdVLlAKPtKjFVb5_gZHGEjTdPLTYfC0KJklWUMDs/s256/CA256x.png" group-title="SPORT", TV85
 
@@ -4596,16 +4612,6 @@ http://45.139.122.148:8000/play/a00a
 http://45.139.122.148:8000/play/a00b
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",beIN 9{4K}
 http://45.139.122.148:8000/play/a00c
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",AD Sport Asia 1 {4K}
-http://45.139.122.148:8000/play/a00t
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",AD Sport Asia 2 {4K}
-http://45.139.122.148:8000/play/a00u
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",AD Sport Premium 1 {4K}
-http://45.139.122.148:8000/play/a00q
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",AD Sport Premium 2 {4K}
-http://45.139.122.148:8000/play/a00r
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",StarzPlay Sport {4K}
-http://45.139.122.148:8000/play/a00s
 
 
 #EXTINF:0,  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" group-title="SPORT",TH:TRUE BEINSPORTS 1
@@ -4676,36 +4682,6 @@ https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:0, tvg-logo="https://iptv36.my.to/logo/tsports.png" group-title="SPORT",T SPORT 7 (THAI)
 https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/MPKT1pNxKHBNPApQpP-oHMSKPZi-kyD9Aj1vGtOCl-YzJXTBz3sexf7bULF4dCLjqg=s256-rw" group-title="SPORT", EURO 2024 ITV4 (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b169fb2c3214e429b66eb2e19fcafdf:90a98753d8f41ad08906243230975ff1
-
-#EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/MPKT1pNxKHBNPApQpP-oHMSKPZi-kyD9Aj1vGtOCl-YzJXTBz3sexf7bULF4dCLjqg=s256-rw" group-title="SPORT", EURO 2024 BBC1 (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
-
-#EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/MPKT1pNxKHBNPApQpP-oHMSKPZi-kyD9Aj1vGtOCl-YzJXTBz3sexf7bULF4dCLjqg=s256-rw" group-title="SPORT", EURO 2024 BBC2 (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4af943b2626c4eb2b3a49f412204ce59:d62226a1df341e526e39a38501050048
-
-#EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/MPKT1pNxKHBNPApQpP-oHMSKPZi-kyD9Aj1vGtOCl-YzJXTBz3sexf7bULF4dCLjqg=s256-rw" group-title="SPORT", EURO 2024 BBC3 (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a50525c66084589983d260a52808f59:04ebf492aec2c867560092a956bf51b6
-
-#EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/MPKT1pNxKHBNPApQpP-oHMSKPZi-kyD9Aj1vGtOCl-YzJXTBz3sexf7bULF4dCLjqg=s256-rw" group-title="SPORT", EURO 2024 BBC4 (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d96572a0a9dd440b88c27268dc133399:4c1facad62ea4d7dd3ac59047520aa78
-
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPORTSTARS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4729,15 +4705,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPOTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
-
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPOTV2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0c/Real_Madrid_CF_logo.svg/1200px-Real_Madrid_CF_logo.svg.png" group-title="SPORT", REALMADRID
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -4821,6 +4788,16 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+
+
+#EXTINF:0, group-title="SPORT",Fightbox
+
+
+#EXTINF:0, group-title="SPORT",UFC
+
+
+#EXTINF:0, group-title="SPORT",WWE 
 
 
 
