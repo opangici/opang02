@@ -3395,9 +3395,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png" group-title="MOVIES", Lotus Macau
-
-
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/mudae/images/1/1e/Horror_Genre_Logo.png" group-title="MOVIES",HORROR MACHINE
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
@@ -3416,6 +3413,30 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest?cb=20180131140829" group-title="MOVIES",WOWOW CINEMA
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:0, group-title="MOVIES", CINEMAX EAST
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", COMEDY CENTRAL EAST
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", EPIX EAST
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", FOX MOVIE
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", HALLMARK EAST
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", HBO EAST
+https://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", HBO2 EAST
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", PARAMOUNT NETWORK EAST
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:0, tvg-logo="https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=hbo" group-title="HBO",HBO + FHD
 http://xciptv.8888play.one:80/228463308/r576049x/18763
@@ -3509,6 +3530,7 @@ http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO ZONE EAST
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jakarta
@@ -3886,7 +3908,7 @@ http://23.237.10.66:16492
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",ALquran Alkareem
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
+https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 
 #EXTINF:0, group-title="RELIGY",Assunah
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
@@ -3925,7 +3947,7 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 
 #EXTINF:0, group-title="RELIGY",BRITISH MUSLIM TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",CHANNEL4U
 
@@ -3969,8 +3991,8 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:0, tv-logo="https://mqtv.co.id/wp-content/uploads/2021/04/favicon.png" group-title="RELIGY",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:0, group-title="RELIGY",NABAWI TV
-
+#EXTINF:0, group-title="RELIGY", TV9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 #EXTINF:0, group-title="RELIGY",NIAGATV
 
@@ -3988,76 +4010,65 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 #EXTINF:0, group-title="RELIGY",SALAM TV DELI SERDANG
-http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",SALING SAPA
-https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",SURAU TV PADANG
-http://119.235.249.58:1935/surautv/live/chunklist_w1069494828.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",SYIAR
-http://flash.klikstream.net:1935/sedekahtv/live/playlist.m3u8?wowzasessionid=1208595343
+
 
 #EXTINF:0, group-title="RELIGY",TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",TAWAF TV
-https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
 
 #EXTINF:0, group-title="RELIGY",TEGAR TV
-http://wms.klikhost.com/tegartv/live/playlist.m3u8
 
-#EXTINF:0, group-title="RELIGY",TEGAR TV
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-
-#EXTINF:0, group-title="RELIGY",SALING SAPA TV
-http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",TAWAFTV
-http://tevemobile.us.to/sc/uc/play.m3u8?channel=tawaftv
+
 
 #EXTINF:0, group-title="RELIGY",NU CHANNEL
-http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",TV MUHAMMADIYAH
-rtmp://118.97.183.222/discover/muhammadiyahtv
+
 
 #EXTINF:0, group-title="RELIGY",tvMu
 https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF:0, group-title="RELIGY",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",WESAL TV
-http://119.235.249.58:1935/wesaltv/live/playlist.m3u8
 
-#EXTINF:0, group-title="RELIGY",WESAL TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
 #EXTINF:0, tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="RELIGY",I AM CHANNEL
-http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist_w1606290350.m3u8
 
 #EXTINF:0, group-title="RELIGY",AINOS TV
-http://stream1.ninmedia.tv/ainostv/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",CATOLIC TV
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_5_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, group-title="RELIGY",REFORMED21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",HIDUPTV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",U CHANNEL
-http://119.235.249.58:1935/uchannel/live/chunklist_w1383758723.m3u8
+
 
 #EXTINF:0, group-title="RELIGY",GOSPEL TRUTH TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
 
 #EXTINF:0, group-title="RELIGY",LIFE TV
-https://anevia115.mncnow.id/live/eds/Life/sa_hls/Life-avc1_2499968=8-mp4a_98800_ind=2.m3u8
+
 
 #EXTINF:0, tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[001] Surah Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
