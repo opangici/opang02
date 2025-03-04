@@ -4378,6 +4378,7 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",Love Nature SPA
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
@@ -4391,11 +4392,11 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0, group-title="NEWS & SCIENCE",NATGEO
 http://91.233.215.250:7272/CFBwIsupXMetwGC
 
-#EXTINF:0, group-title="NEWS & SCIENCE",NATGEO 2
-
+#EXTINF:0, group-title="NEWS & SCIENCE",NATGEO
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176897
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NATGEO WILD
-http://91.233.215.250:7272/CBcyJCMYxKWHlWD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176898
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NATGEO WILD HD
 http://91.233.215.250:7272/CBcyJCMYxKWHlWD
