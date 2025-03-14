@@ -2823,7 +2823,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Logo_BRTV.png/440px-Logo_BRTV.png" group-title="INDONESIA",BRTV
-
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="INDONESIA",BUNGOTV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w1238136179.m3u8
@@ -2866,7 +2866,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w1238136179.m3u8
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3f/Elshinta_tv_logo.jpg" group-title="INDONESIA",ELSHINTA TV
-
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/43/FAJARTV_2014.png/400px-FAJARTV_2014.png" group-title="INDONESIA",FAJAR TV
 
@@ -3971,7 +3971,7 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 
 
 #EXTINF:0, group-title="RELIGY",MUI TV
-
+https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/66ff888b79e2838c3ddc5fbb9d26df1e96a81cc6/71b5c8483161297.m3u8
 
 #EXTINF:0, group-title="RELIGY",MUSLIM TV
 
@@ -4481,8 +4481,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560ac
 #EXTINF:-1, group-title="MUSIC",KPOP2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Musica_Studios.jpg" group-title="MUSIC",MUSICA
-
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Musica_Studios.jpg" group-title="MUSIC",MALEO
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 #EXTINF:0, tvg-logo="http://www.giniko.com/logos/190x110/1043.jpg" group-title="MUSIC",1mus
 http://rtmp.one.by:1300
@@ -4511,6 +4511,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #EXTINF:0, group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
+#EXTINF:0, group-title="MUSIC",POP MUSIK
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 #EXTINF:-1, group-title="MUSIC",VEVO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
