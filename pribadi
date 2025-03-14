@@ -3719,33 +3719,6 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png" group-title="KIDS",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="ORIENTAL",澳視MACAU
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="ORIENTAL",澳視資訊
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-
-#EXTINF:0, tvg-id="WXD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="ORIENTAL",唯心電視
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-
-#EXTINF:0, tvg-id="ZJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="ORIENTAL",浙江卫视
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/zhejiang.m3u8
-
-#EXTINF:0, tvg-id="ZJW.CN" tvg-logo="" group-title="ORIENTAL",LQTV
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
-
-#EXTINF:0, tvg-id="ZJW.CN" tvg-logo="" group-title="ORIENTAL",SXqingyuan
-http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
-
-#EXTINF:0, tvg-id="ZJW.CN" tvg-logo="" group-title="ORIENTAL",SYTV
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
- 
-#EXTINF:0, group-title="ORIENTAL",點掌財經
-http://cclive.aniu.tv/live/anzb.m3u8
-
-#EXTINF:0, tvg-id="ZJW.CN" tvg-logo="https://www.infotelevisi.com/images/tvsat/star_xing_kong_hk.png" group-title="ORIENTAL",XINGKONG
-http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB SUKMA INDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
 
