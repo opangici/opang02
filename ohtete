@@ -4229,6 +4229,9 @@ https://archive.org/download/MurotalMR/112.mp3
 https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:0, tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[114] Surah An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3
+
+========================================================
+
 #EXTINF:0, group-title="NEWS & SCIENCE",AFC
 
 #EXTINF:0, group-title="NEWS & SCIENCE",AL JAZEERA
@@ -4256,7 +4259,7 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",CNBC UK
-http://92.114.85.77:8000/play/a0b6
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE", CLUBBING TV
 https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
@@ -4266,7 +4269,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 
 
 #EXTINF:0, group-title="NEWS & SCIENCE",DISCOVERY SCIENCE
-http://tkosportz.live:25461/live/swilder2023/6063815781/10389.ts
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",FAIL ARMY
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
@@ -4313,37 +4316,37 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NASA TV
-http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NATGEO
-http://91.233.215.250:7272/CFBwIsupXMetwGC
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NATGEO
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176897
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NATGEO WILD
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176898
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NATGEO WILD HD
-http://91.233.215.250:7272/CBcyJCMYxKWHlWD
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NHK WORLD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NHK WORLD HD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NHK WORLD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",NHK G
-https://nhk1.mov3.co/hls/nhk.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",OUTDOOR CHANNEL
 
@@ -4362,7 +4365,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff303704505
 
 
 #EXTINF:0, group-title="NEWS & SCIENCE",REUTERS
-https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
+
  
 #EXTINF:0, group-title="NEWS & SCIENCE",RT
 
@@ -4371,7 +4374,7 @@ https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.scientology.org/stream/hls_640x360_730k.m3u8
 
 #EXTINF:0, group-title="NEWS & SCIENCE",SMITHSONIAN CHANNEL
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",SONY BBC EARTH
 
@@ -4380,7 +4383,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://www.proteinreport.org/sites/default/files/2019-11/wildearth%20logo.png" group-title="NEWS & SCIENCE",WILD EARTH
-https://wildearth-roku.amagi.tv/master.m3u8
+
 
 #EXTINF:0, group-title="NEWS & SCIENCE",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
