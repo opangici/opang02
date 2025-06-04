@@ -4461,17 +4461,24 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png" group-title="SPORT", SOCCER CHANNEL
+#EXTINF:0, tvg-logo="https://iili.io/2h01fDJ.png" group-title=" group-title="SPORT", BRI LIGA 1
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png" group-title="SPORT", SOCCER CHANNEL
 
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPOTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPOTV2
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:0, tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0P5Enod7b6NF8gXUfJ_6_oY9XSveuad06qkR6Sp2dm4fT9EgdpPaifIrfyAMGFQt9WOmB_N811gbfSCCvJ5rbITrgdW_8i5Cd-tBeaIDgqBV4lnhWJhcZmOb_H8_5xle0JJwCTZaa-W8zXn2jwZBrdVLlAKPtKjFVb5_gZHGEjTdPLTYfC0KJklWUMDs/s256/CA256x.png" group-title="SPORT", TV85
 
