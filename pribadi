@@ -4461,7 +4461,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:0, tvg-logo="https://iili.io/2h01fDJ.png" group-title=" group-title="SPORT", BRI LIGA 1
+#EXTINF:0, tvg-logo="https://iili.io/2h01fDJ.png" group-title="SPORT", BRI LIGA 1
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 
@@ -4479,6 +4479,33 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:0, tvg-logo="https://iili.io/Jp5oxpt.png" group-title="SPORT" , NBC SPORTS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:0, tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="SPORT", PEACOOCK SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png" group-title="SPORT", USA Network 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 group-title="EPL" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737" group-title="SPORT", NBC Sport Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
 
 #EXTINF:0, tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0P5Enod7b6NF8gXUfJ_6_oY9XSveuad06qkR6Sp2dm4fT9EgdpPaifIrfyAMGFQt9WOmB_N811gbfSCCvJ5rbITrgdW_8i5Cd-tBeaIDgqBV4lnhWJhcZmOb_H8_5xle0JJwCTZaa-W8zXn2jwZBrdVLlAKPtKjFVb5_gZHGEjTdPLTYfC0KJklWUMDs/s256/CA256x.png" group-title="SPORT", TV85
 
@@ -4510,13 +4537,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT",beIN SPORT 1
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT",beIN SPORT 2
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT",beIN SPORT 3
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT",beIN 1{4K}
 
