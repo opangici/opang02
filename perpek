@@ -65,28 +65,28 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
-http://rr.dens.tv/h/h40/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE idh
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
 
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NET Tv
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MDTv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NET TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MDTV
 https://bit.ly/3sBQgmR
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NET TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MDTV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NET TV
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ELSHINTA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BERITASATU WORLD
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JAKARTA GLOBE
@@ -96,7 +96,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV_HD
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV
-http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
@@ -122,13 +122,13 @@ https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MADU TV
-https://v6.siar.us/madutv/hd720/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JAWAPOS TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JPM TV
-https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w57900395.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KAWANUA TV
-https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TABALONG TV
@@ -136,15 +136,15 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BUNGO TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SMTV
-https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/chunklist_w500135136.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTV
-https://63b2dc7196c38.streamlock.net:1937/ch9/myStream/chunklist_w1718673554.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TIMOR TV
-https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ATAMBUA TV
-https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PADANG TV
-https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Al-Quran Tv
 http://210.210.155.37/x6bnqe/s/s28/index.m3u8
