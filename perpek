@@ -121,6 +121,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AKTV
 https://e.siar.us/live/aktv.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AREK TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NTV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INSPIRA TV
@@ -135,8 +137,8 @@ https://e.siar.us/live/surabayatv.m3u8
 http://116.254.112.74:80/hls/cakralive.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JAWAPOS TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JPM TV
-
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DHAMMA TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JOGJA TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BANJAR TV
@@ -155,8 +157,8 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ATAMBUA TV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PADANG TV
-
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Al-Quran Tv
 
@@ -164,8 +166,8 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ALWAFA TARIM
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AREKTV
-
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BMS TV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BANDUNGTV
@@ -221,8 +223,8 @@ https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29603.ts
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29604.ts
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO
-
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINEMA ONE
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO Family
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO SIGNATURE HD
@@ -262,8 +264,8 @@ http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ROCK ACTION
 
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ROCK ENTERTAIMEN
-
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CCM
+https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
