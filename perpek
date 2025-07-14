@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
+
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
+https://bit.ly/3Sc6EFk
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
+http://xtv.ooo:8080/live/djshub654@/djshub456@/351030.ts
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/32.ts
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
+http://iptvtree.net:8080/F25093/29838750/162141
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
+http://iptvtree.net:8080/F25093/29838750/298550
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
@@ -32,34 +59,6 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 http://iptvtree.net:8080/F25093/29838750/157578
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 http://xtv.ooo:8080/live/djshub654@/djshub456@/350954.ts
-
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-
-
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-https://bit.ly/3Sc6EFk
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-http://xtv.ooo:8080/live/djshub654@/djshub456@/351030.ts
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/32.ts
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-http://iptvtree.net:8080/F25093/29838750/162141
-
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
-http://iptvtree.net:8080/F25093/29838750/298550
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANSTV
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
@@ -186,6 +185,19 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Peace Tv
 
+#EXTINF:-1 group-title="LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
+https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
+#EXTINF:-1 group-title="LOKAL_ID" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="LOKAL_ID",Jawapos TV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="LOKAL_ID",Kawanua TV
+
+#EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="LOKAL_ID",TATV Solo
+
+#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="LOKAL_ID",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ID",HBO HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
@@ -235,41 +247,15 @@ https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29604.ts
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO Family
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO SIGNATURE HD
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HBO HITS HD
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HBO FAMILY HD
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO EAST
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO2 EAST
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO COMEDY EAST
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO FAMILY EAST
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO ZONE EAST
 
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINEMAX HD
 http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", FLIK
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ATV
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GALAXY
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GALAXY PREMIUM
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MCE HD
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", WARNER HD
-
-
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ROCK ACTION
 
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CCM
@@ -317,38 +303,14 @@ http://125.227.210.55:8154/VideoInput/play.ts
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ALWAYS FUNNY
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8
- 
-
-#EXTINF:-1 group-title="LOKAL_ID" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d8af0adc-3611-4fcb-abd0-5aea9666bf26-profile_image-300x300.png",Dayak•TV
-
-#EXTINF:-1 group-title="LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
-https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
-#EXTINF:-1 group-title="LOKAL_ID" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="LOKAL_ID",Jawapos TV
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="LOKAL_ID",Kawanua TV
-
-#EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="LOKAL_ID",TATV Solo
-
-#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="LOKAL_ID",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="LOKAL_ID",Tvri_sports庐wpc
-
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="LOKAL_ID",TRANStv_dt
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="LOKAL_ID",TRANS7_dt
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
- 
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="SPORT", REAL MADRID
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="SPORT", MU TV
 
-
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="SPORT", REDBULL
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="SPORT", SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
@@ -375,15 +337,6 @@ http://185.189.225.157/EuroSport1/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="SPORT", EUROSPORT 2
 http://185.189.225.157/EuroSport2/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="SPORT", W SPORT
-
-
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="SPORT", FOX SPORT 1
-
-
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="SPORT", FOX SPORT 2
-
 
 
 #EXTM3U billed-msg="Playlist INI Versi Gratis"
