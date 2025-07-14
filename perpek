@@ -89,6 +89,8 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 https://bit.ly/3sBQgmR
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MDTV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MDTV
+https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ELSHINTA TV
@@ -121,6 +123,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AKTV
 https://e.siar.us/live/aktv.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",
+https://flv.intechmedia.net/live/ch58.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JAYA TV
+https://flv.intechmedia.net/live/ch52.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AREK TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NTV
