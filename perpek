@@ -8,7 +8,7 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://allcutv.rctiplus.id/rcti2023.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
-
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157591
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
@@ -21,18 +21,19 @@ https://allcutv.rctiplus.id/mnctv2023.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
-http://extraott.com/live/6945574629/7169628753/400200743.ts
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165054
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC 1
-http://filex.tv:8080/live/tahirbutt/003092/302278.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
-
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157578
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 
-
+#EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162138
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 http://xtvplayer.top:8080/live/sanushop/12345678/350972.ts
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
@@ -89,13 +90,13 @@ http://rr.dens.tv/h/h40/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NET Tv
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD Tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NET TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
 https://bit.ly/3sBQgmR
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NET TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NET TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ELSHINTA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
@@ -182,16 +183,161 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO Family
-http://iptv12k.com:35461/654321/123456/1746
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO SIGNATURE HD
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HBO HITS HD
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HBO FAMILY HD
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ID",HBO HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.ts
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ID",HBO Hits HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/591.ts
+
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="ID",HBO Family HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.ts
+
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="ID",HBO Signature HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.ts
+
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="ID",Bioskop Indonesia (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/908.ts
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="ID",Paramount Network (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/98.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="ID",FLIK HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29592.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="ID",Galaxy Premium (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29603.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="ID",Galaxy (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29604.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="ID",ATV(nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29899.ts
+
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="ID",Thrill (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/4.ts
+
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="ID",Celestial Movies (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/5.ts
+
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="ID",KIX HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/8.ts
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="ID",AXN(nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/9.ts
+
+#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="HITS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="ID",HITS (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/94.ts
+
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="Hits Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="ID",Hits Movies HD(nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/99.ts
+
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="ID",Warner TV ID HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1533.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="ID",My Cinema Asia (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1859.ts
+
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="ID",Cinemax ID (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2156.ts
+
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="ID",Aniplus (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2.ts
+
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="ID",Animax (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/3.ts
+
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="My Kidz" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="ID",My Kidz (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/213.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="ID",Citra Drama (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/905.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="ID",Rock Action HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1506.ts
+
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="ID",K Plus (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/18.ts
+
+#EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="ID",Sony ONE (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/19.ts
+
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="TVN ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="ID",TVN ID (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/767.ts
+
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="ID",S GEM HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/770.ts
+
+#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="ID",tVN Movies HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/927.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="ID",KBS World HD (nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/15057.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Drama Korea LBS" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="ID",Drama Korea LBS(nt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/35769.ts
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
@@ -208,18 +354,15 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINEMAX HD
 http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", FLIK
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ATV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29899
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GALAXY
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29604
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GALAXY PREMIUM
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29603
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MCE HD
-http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", WARNER HD
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35769
+
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CELESTIAL
+https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CELESTIAL
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/5.ts
+
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TVN MOVIE
+https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8
 
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ROCK ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
