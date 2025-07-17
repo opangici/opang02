@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Mentar
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANSTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162503
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162502
