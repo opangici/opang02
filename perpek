@@ -31,7 +31,7 @@ https://allcutv.rctiplus.id/gtv2023.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157578
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
-
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
@@ -42,7 +42,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-https://bit.ly/3Sc6EFk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/32.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
 
@@ -61,8 +63,16 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Mentar
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162503
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/34.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162502
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/35.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
@@ -76,6 +86,9 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/266808
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/31.ts
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD Tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
@@ -102,7 +115,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
-
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DAAI TV
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CNN ID
@@ -111,8 +124,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JAKTV
 
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/37.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DUNIA LAIN
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/910.ts
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AKTV
 https://e.siar.us/live/aktv.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NTV
@@ -447,6 +466,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
 
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Discovery CH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/95.ts
+
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DA VINCI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/36729.ts
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="LOKAL_ID", ANTV_HD
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
