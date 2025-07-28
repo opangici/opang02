@@ -36,8 +36,6 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157578
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162138
-#EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-https://tvking6282.cloud/k0detv2206/Lokal/Indosiar-HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
@@ -45,8 +43,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 https://bit.ly/3Sc6EFk
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-https://tvking6282.cloud/k0detv2206/Lokal/ScTv-HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
 
@@ -57,7 +53,6 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
-https://gist.githubusercontent.com/warningfm/88f3dbec38f2f3ee61a7155d7e5676d2/raw/e2e2ea4cfef9529547ea38f6856a79c9ba19d3c9/edc76fc8bbe047e.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
@@ -211,6 +206,9 @@ https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.ts
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ID",HBO
+http://125.227.210.55:8153/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="ID",Bioskop Indonesia (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
