@@ -4,7 +4,7 @@
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI (V+)
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG", RCTI (R+)
@@ -24,7 +24,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV (T)
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG",GLOBAL TV HD
@@ -33,7 +33,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:0, group-title="OPANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png", GTV (T)
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
 #EXTINF:0, tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="OPANG",Trans 7 (T)
 
@@ -112,7 +112,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
  
 #EXTINF:0, tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Logo_Kompas_Di_Layar_kaca.png/500px-Logo_Kompas_Di_Layar_kaca.png" group-title="OPANG",Kompas TV ()
-
+http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTINF:0, tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Logo_Kompas_Di_Layar_kaca.png/500px-Logo_Kompas_Di_Layar_kaca.png" group-title="OPANG",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
