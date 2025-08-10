@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
-
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://allcutv.rctiplus.id/rcti2023.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
@@ -30,23 +30,19 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162138
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/32.ts
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
@@ -57,17 +53,13 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Mentar
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/34.ts
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/34.ts
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162502
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/35.ts
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
@@ -76,14 +68,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/266808
+
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/31.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD Tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
@@ -92,11 +82,11 @@ https://bit.ly/3sBQgmR
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
-
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ELSHINTA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
-https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BERITASATU WORLD
@@ -110,6 +100,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DAAI TV
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
@@ -120,13 +112,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JAKTV
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/37.ts
+
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DUNIA LAIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/910.ts
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", VISION PRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ENT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AKTV
 https://e.siar.us/live/aktv.m3u8
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NTV
@@ -197,6 +188,24 @@ https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINE ACTION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINE XTRA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SUPERIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", UNIQUES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Z BIOSKOP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", UNIV STUDIO
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ID",HBO HD
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306484
