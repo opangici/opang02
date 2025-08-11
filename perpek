@@ -403,6 +403,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ETV BIOSKOP
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
 
+#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CNN INTERNATIONAL
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
 #EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
 
@@ -432,16 +435,6 @@ https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/3.ts
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/213.ts
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="LOKAL_ID", ANTV_HD
-https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="LOKAL_ID",Inews
-https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/941406205.m3u8|User-Agent=Dalvik/2.1.0
-
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="LOKAL_ID",NADOO_KOREAN
-http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="LOKAL_ID",NADOO_COMMERCE
-http://210.210.155.35/uq2663/h/h126/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooCommerce
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Sctv_dens
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
  
@@ -623,22 +616,22 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAM
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PSJ TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SOCCER 9
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPORTSTARS
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPOTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", REAL MADRID
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -647,102 +640,30 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", WWE
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TENSPORT
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PTPSPORT
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", A SPORT
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV SPORT
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", EUROSPORT 1
-http://185.189.225.157/EuroSport1/index.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", EUROSPORT 2
-http://185.189.225.157/EuroSport2/index.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", W SPORT
-https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", FOX SPORT 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", FOX SPORT 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 1{4K}
-http://45.139.122.148:8000/play/a004
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 2{4K}
-http://45.139.122.148:8000/play/a005
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 3{4K}
-http://45.139.122.148:8000/play/a006
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 4{4K}
-http://45.139.122.148:8000/play/a007
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 5{4K}
-http://45.139.122.148:8000/play/a008
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 6{4K}
-http://45.139.122.148:8000/play/a009
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 7{4K}
-http://45.139.122.148:8000/play/a00a
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 8{4K}
-http://45.139.122.148:8000/play/a00b
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",beIN 9{4K}
-http://45.139.122.148:8000/play/a00c
-
-
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS NEWS
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/290371
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/6727
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 1 HD 
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/60954
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 2 HD 
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/60955
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 3 HD 
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/60956
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 4
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/5231
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 5
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/5229
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 6
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/5233
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 7
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/5235
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 8
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/5237
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 9
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/5239
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 1 FRENCH FHD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/63499
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 2 FRENCH FHD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/63500
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 3 FRANCE HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/667292
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 1 ENGLISH
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/5241
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS 2 ENGLISH HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/667289
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS XTRA 1 HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/135165
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS XTRA 2 HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/135166
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS XTRA 3
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/5240
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS AFC 1 HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/435960
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS AFC 2 HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/435961
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS AFC 3 HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/435962
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS AFC 4 HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/435963
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BEINSPORTS AFC 5 HD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/435964
 
 #EXTM3U billed-msg="Playlist INI Versi Gratis"
