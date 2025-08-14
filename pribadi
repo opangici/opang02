@@ -4103,8 +4103,11 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 
 #EXTINF:0, tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0P5Enod7b6NF8gXUfJ_6_oY9XSveuad06qkR6Sp2dm4fT9EgdpPaifIrfyAMGFQt9WOmB_N811gbfSCCvJ5rbITrgdW_8i5Cd-tBeaIDgqBV4lnhWJhcZmOb_H8_5xle0JJwCTZaa-W8zXn2jwZBrdVLlAKPtKjFVb5_gZHGEjTdPLTYfC0KJklWUMDs/s256/CA256x.png" group-title="SPORT", TV85
 
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", ASTRO PREMIERE LEAGUE 1
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Tv-channel_%E2%94%82_eurosport_1.png" group-title="SPORT", EUROSPORT 1
+http://vocotv.pro:80/IPTV123/IPTV123/265561
 
+#EXTINF:0, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_2_Portugal.png" group-title="SPORT", EUROSPORT 2
+http://vocotv.pro:80/IPTV123/IPTV123/265560
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", ASTRO PREMIERE LEAGUE 2
 
@@ -4412,8 +4415,17 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport
 #EXTINF:0, tvg-logo="" group-title="SPORT", V SPORT GOLF
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
 
-#EXTINF:0, tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORT",TEN SPORTS HD
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-1-461787.png" group-title="SPORT",ESPN
+http://vocotv.pro:80/IPTV123/IPTV123/265572
 
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-1-461787.png" group-title="SPORT",ESPN2
+http://vocotv.pro:80/IPTV123/IPTV123/265571
+
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-1-461787.png" group-title="SPORT",ESPN3
+http://vocotv.pro:80/IPTV123/IPTV123/265570
+
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-1-461787.png" group-title="SPORT",ESPN4
+http://vocotv.pro:80/IPTV123/IPTV123/265569
 
 #EXTINF:0,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORT",PTV SPORTS HD
 
