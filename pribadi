@@ -4263,16 +4263,16 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:0, tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="SPORT" ch-number="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",Astro Arena 1
-http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
+
 
 #EXTINF:0, tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="SPORT" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",Astro Arena 2
-http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
+
 
 #EXTINF:0, tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="SPORT",Astro Arena Bola 1
-http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
+
 
 #EXTINF:0, tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="SPORT",Astro Arena Bola 2
-http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
+
 
 #EXTINF:0, tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="SPORT",Astro Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
