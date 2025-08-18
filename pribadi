@@ -4053,7 +4053,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:0, tvg-logo="https://iili.io/2h01fDJ.png" group-title="SPORT", BRI LIGA 1
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
 
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png" group-title="SPORT", SOCCER CHANNEL
@@ -4128,20 +4128,12 @@ http://vocotv.pro:80/IPTV123/IPTV123/265560
 
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT", TRUE SPORT 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT", TRUE SPORT 2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp" group-title="SPORT", TRUE SPORT 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
 
 
 #EXTINF:0, tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT", beIN Sports 1
