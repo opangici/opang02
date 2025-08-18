@@ -4053,7 +4053,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:0, tvg-logo="https://iili.io/2h01fDJ.png" group-title="SPORT", BRI LIGA 1
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
 
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png" group-title="SPORT", SOCCER CHANNEL
@@ -4128,20 +4128,12 @@ http://vocotv.pro:80/IPTV123/IPTV123/265560
 
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT", TRUE SPORT 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vrwyrp1437614710.png" group-title="SPORT", TRUE SPORT 2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp" group-title="SPORT", TRUE SPORT 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
 
 
 #EXTINF:0, tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT", beIN Sports 1
@@ -4263,16 +4255,16 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:0, tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="SPORT" ch-number="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",Astro Arena 1
-http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
+
 
 #EXTINF:0, tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="SPORT" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",Astro Arena 2
-http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
+
 
 #EXTINF:0, tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="SPORT",Astro Arena Bola 1
-http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
+
 
 #EXTINF:0, tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="SPORT",Astro Arena Bola 2
-http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
+
 
 #EXTINF:0, tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="SPORT",Astro Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -4295,31 +4287,30 @@ https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
 #EXTINF:0, xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="SPORT",SPORT TV 1 HD
-http://wanicelife.com:8880/6mc250009/28887461/3192
 
 #EXTINF:0, xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="SPORT",Sport TV 2
-http://wanicelife.com:8880/6mc250009/28887461/3191
+
 
 #EXTINF:0, xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="SPORT",Sport TV 3
-http://wanicelife.com:8880/6mc250009/28887461/3190
+
 
 #EXTINF:0, xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="SPORT",Sport TV 4
-http://wanicelife.com:8880/6mc250009/28887461/3189
+
 
 #EXTINF:0, xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="SPORT",Sport +
-http://wanicelife.com:8880/6mc250009/28887461/3187
+
 
 #EXTINF:0, tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="SPORT",SporTV 2 
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/519.ts
+
 
 #EXTINF:0, tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="SPORT",SporTV 3 
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/147.ts
+
 
 #EXTINF:0, tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="SPORT",SporTV 1
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/518.ts
+
 
 
 #EXTINF:0, tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORT",TNT Sports 1 
