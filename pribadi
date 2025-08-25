@@ -2657,28 +2657,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 #EXTINF:0, tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1212px-Logo_Studio_Universal.svg.png" group-title="MOVIES", STUDIO UNIVERSAL 
-
-
 #EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/originals.png", Cinemachi-HD
-
-
-#EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png", Cinemachi-Action
-
-
+#EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png", Cinemachi-Acti
 #EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png", Cinemachi-Max-HD
-
-
 #EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png", Cinemachi-Xtra-HD
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png", AXN V+
 
@@ -2745,20 +2727,12 @@ https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO Signature HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:0, tvg-logo="https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=hbo" group-title="MOVIES",HBO HD (NS)
-http://125.227.210.55:8153/VideoInput/play.ts
+
 
 #EXTINF:0, tvg-logo="https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=hbo" group-title="MOVIES",HBO (NS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2808,46 +2782,12 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #EXTINF:0, tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax
 
 
-#EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="MOVIES", CINEMACHI (V)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxU9ixHFhBKdBItWe5IWpHpmLqV5Stry0GNsUKEbDnhYYMgoTCbpWQhXQrQhOxr2m4Ijg&usqp=CAU" group-title="MOVIES", CINEMACHI ACTION (V)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-
-
-#EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="MOVIES", CINEMACHI XTRA (V)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-
-
-#EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="MOVIES", CINEMACHI MAX (V)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-
-
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P-8Wi5TfBxhIq2jcvxT5ArUTxE0-CbbrqESJW3Ip_w&s" group-title="MOVIES", TVN MOVIES (V)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
 
 
 #EXTINF:0, tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="MOVIES", TVN (V)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="MOVIES", ONE (V)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
 
 
 #EXTINF:0, tvg-logo="http://www.mncvision.id.E" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="MOVIES", CELESTIAL MOVIE (V)
@@ -2874,13 +2814,9 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #EXTINF:0, tvg-logo="https://i.ibb.co/8NJPsHg/hits-movie.png" group-title="MOVIES", HITS MOVIE (V)
 
 
-#EXTINF:0, tvg-logo="https://i.ibb.co/YL2qyDN/galaxy-premium.png" group-title="MOVIES", GALAXY PREMIUM (V)
-
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/YL2qyDN/galaxy-premium.png" group-title="MOVIES", GALAXY PREMIUM
 
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/sPqr46j/galaxy.png" group-title="MOVIES", GALAXY (V)
 
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/sPqr46j/galaxy.png" group-title="MOVIES", GALAXY
@@ -2958,34 +2894,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest?cb=20180131140829" group-title="MOVIES",WOWOW CINEMA
 
 
-#EXTINF:0, group-title="MOVIES", CINEMAX EAST
-
-
-#EXTINF:0, group-title="MOVIES", COMEDY CENTRAL EAST
-
-
-#EXTINF:0, group-title="MOVIES", EPIX EAST
-
-
-#EXTINF:0, group-title="MOVIES", FOX MOVIE
-
-
-#EXTINF:0, group-title="MOVIES", HALLMARK EAST
-
-
-#EXTINF:0, group-title="MOVIES", HBO EAST
-
-
-#EXTINF:0, group-title="MOVIES", HBO2 EAST
-
-
-#EXTINF:0, group-title="MOVIES", PARAMOUNT NETWORK EAST
-
-
-
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO EAST
-
-
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jakarta
