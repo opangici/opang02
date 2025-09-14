@@ -66,6 +66,11 @@ https://bit.ly/3Sc6EFk
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/webarebears/images/d/d1/Logo_MDTV.png/revision/latest/thumbnail/width/360/height/450?cb=20250309124101&path-prefix=id" group-title="OPANG", MDTV HD ()
 
+#EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
+http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+
+#EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
+http://103.179.182.117:6768/hls/56/56.m3u8
 
 #EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -3429,8 +3434,8 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:0, group-title="RELIGY",ASHIIL TV
 
 
-#EXTINF:0, group-title="RELIGY",ASWAJA TV
-
+#EXTINF:0, group-title="RELIGY",ARTVISI TV
+https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTINF:0, group-title="RELIGY",BRITISH MUSLIM TV
 
@@ -3457,7 +3462,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:0, group-title="RELIGY",MADANI TV
-
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",MTA TV
 
@@ -3499,6 +3504,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 #EXTINF:0, group-title="RELIGY",SALING SAPA
+https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:0, group-title="RELIGY",SURAU TV PADANG
 
@@ -3510,6 +3516,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 #EXTINF:0, group-title="RELIGY",TAWAF TV
+https://tvstreamcast.com/tawaftv.m3u8
 
 #EXTINF:0, group-title="RELIGY",TEGAR TV
 
