@@ -4370,7 +4370,7 @@ http://203.80.165.14:30168/stream/channelid/161131987?profile=pass
 #EXTINF:0, tvg-logo="" group-title="SPORT", PREMIERE TENNIS
 
 
-#EXTINF:0, tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="SPORT". LALIGA 1
+#EXTINF:0, tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="SPORT", Laliga 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4378,7 +4378,7 @@ http://203.80.165.14:30168/stream/channelid/161131987?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:0, tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="SPORT". LALIGA 2
+#EXTINF:0, tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="SPORT", LALIGA 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
