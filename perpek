@@ -1,813 +1,813 @@
 #EXTM3U
 
-#EXTINF:0, group-title="ID",TVRI
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TVRI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
-#EXTINF:0, group-title="ID", RCTI
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-#EXTINF:0, group-title="ID", GTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-#EXTINF:0, group-title="ID", MNCTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNCTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:0, group-title="ID", MNC
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC
 http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:0, group-title="ID", ANTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-#EXTINF:0, group-title="ID", MDTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MDTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-#EXTINF:0, group-title="ID", TRANS7
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-#EXTINF:0, group-title="ID", TRANSTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANSTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-#EXTINF:0, group-title="ID", METRO
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METRO
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
-#EXTINF:0, group-title="ID", TVONE
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TVONE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
-#EXTINF:0, group-title="ID", KOMPAS
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KOMPAS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
-#EXTINF:0, group-title="ID", INEWS
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:0, group-title="ID", RTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
-#EXTINF:0, group-title="ID", BTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-#EXTINF:0, group-title="ID", JTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
-#EXTINF:0, group-title="ID", UNIQUES
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", UNIQUES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
-#EXTINF:0, group-title="ID", VISION
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", VISION
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
-#EXTINF:0, group-title="ID", MNC GROUP
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC GROUP
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000109/1024.m3u8
-#EXTINF:0, group-title="ID", MNC GROUP
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC GROUP
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
-#EXTINF:0, group-title="ID", MTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
-#EXTINF:0, group-title="ID", ENT
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ENT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
-#EXTINF:0, group-title="ID", CELEB
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CELEB
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
-#EXTINF:0, group-title="ID", IDX
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", IDX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
-#EXTINF:0, group-title="ID", HANACARAKA
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HANACARAKA
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
-#EXTINF:0, group-title="ID", DAAI
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DAAI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
-#EXTINF:0, group-title="ID", VISION PRIME
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", VISION PRIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
-#EXTINF:0, group-title="ID", DMI
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DMI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
-#EXTINF:0, group-title="ID", CINEEDGE
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINEEDGE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
-#EXTINF:0, group-title="ID", SUPERRIX
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SUPERRIX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
-#EXTINF:0, group-title="ID", Movie
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Movie
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
-#EXTINF:0, group-title="ID", GALAXY PREMIUM
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GALAXY PREMIUM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
-#EXTINF:0, group-title="ID", GALAXY
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GALAXY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
-#EXTINF:0, group-title="ID", CM
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#EXTINF:0, group-title="ID", CCM
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CCM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
-#EXTINF:0, group-title="ID", HITS MOVIES
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HITS MOVIES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
-#EXTINF:0, group-title="ID", KIX
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KIX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-#EXTINF:0, group-title="ID", STUDIO UNIVERSAL
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", STUDIO UNIVERSAL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
-#EXTINF:0, group-title="ID", TVN MOVIES
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TVN MOVIES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
-#EXTINF:0, group-title="ID", THRILL
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", THRILL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
-#EXTINF:0, group-title="ID", IMC
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", IMC
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
-#EXTINF:0, group-title="ID", R ACTION
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", R ACTION
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-#EXTINF:0, group-title="ID", R ENT
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", R ENT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
-#EXTINF:0, group-title="ID", HITS
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HITS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-#EXTINF:0, group-title="ID", ONE
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ONE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-#EXTINF:0, group-title="ID", TVN
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TVN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
-#EXTINF:0, group-title="ID", LIFE TIME
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", LIFE TIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
-#EXTINF:0, group-title="ID", ZBIOSKOP
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ZBIOSKOP
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
-#EXTINF:0, group-title="ID", GLOBAL TREKKER
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GLOBAL TREKKER
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-#EXTINF:0, group-title="ID", HISTORY
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", HISTORY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
-#EXTINF:0, group-title="ID", LOVE NATURE
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", LOVE NATURE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
-#EXTINF:0, group-title="ID", OUTDOOR
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", OUTDOOR
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
-#EXTINF:0, group-title="ID", ONE
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ONE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-#EXTINF:0, group-title="ID", AXN
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AXN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
-#EXTINF:0, group-title="ID", VISION PRIME
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", VISION PRIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000112/1024.m3u8
-#EXTINF:0, group-title="ID", TV5 MONDE ASIE
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV5 MONDE ASIE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
-#EXTINF:0, group-title="ID", TV9
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV9
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/1024.m3u8
-#EXTINF:0, group-title="ID", CRIME
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CRIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
-#EXTINF:0, group-title="ID", ARIRANG
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ARIRANG
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-#EXTINF:0, group-title="ID", CGTN
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CGTN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
-#EXTINF:0, group-title="ID", CHINA
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CHINA
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
-#EXTINF:0, group-title="ID", CHINA2
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CHINA2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
-#EXTINF:0, group-title="ID", CHINA3
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CHINA3
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
-#EXTINF:0, group-title="ID", FIGHT
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", FIGHT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-#EXTINF:0, group-title="ID", SPOTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-#EXTINF:0, group-title="ID", SPOTV2
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPOTV2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:0, group-title="ID", BEIN 2
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BEIN 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
-#EXTINF:0, group-title="ID", SOCCER
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SOCCER
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
-#EXTINF:0, group-title="ID", SPORTSTAR2
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPORTSTAR2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-#EXTINF:0, group-title="ID", SPORTSTAR4
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPORTSTAR4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:0, group-title="ID", QURAN
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", QURAN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
-#EXTINF:0, group-title="ID", MUSLIM
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MUSLIM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTI
 https://allcutv.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
 https://allcutv.rctiplus.id/mnctv2023.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC TV
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC 1
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MNC 1
 
 
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", GTV
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
+#EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
+#EXTINF:-1   tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MOJI
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MENTARI TV
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANSTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS TV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
 http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TV ONE
 
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ANTV HD
 
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD Tv
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD Tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
 https://bit.ly/3sBQgmR
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MD TV
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ELSHINTA TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ELSHINTA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BERITASATU WORLD
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BERITASATU WORLD
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KOMPAS TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KOMPAS TV
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KOMPASTV_HD
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KOMPASTV_HD
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV_HD
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV_HD
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", METROTV
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INEWS TV
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DAAI TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DAAI TV
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CNN ID
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CNN ID
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CNBC ID
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CNBC ID
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JAKTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JAKTV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DUNIA LAIN
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", VISION PRIME
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DUNIA LAIN
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", VISION PRIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ENT
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ENT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AKTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AKTV
 https://e.siar.us/live/aktv.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", NTV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INSPIRA TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", IMTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KSTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KSTV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SURABAYA TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MADU TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MGSTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JPM TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JPM TV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KAWANUA TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KAWANUA TV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DHOHO TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TABALONG TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TABALONG TV
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BUNGO TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BUNGO TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SMTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SMTV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RCTV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TIMOR TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TIMOR TV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ATAMBUA TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ATAMBUA TV
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PADANG TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PADANG TV
 https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AREKTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", AREKTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BTV
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BANDUNGTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BANDUNGTV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BANTEN TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BANTEN TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BATU TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", BATU TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JURNAL TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", JURNAL TV
 https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Al-Quran Tv
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Al-Quran Tv
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", As-Sunnah Tv
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", As-Sunnah Tv
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ALWAFA TARIM
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ALWAFA TARIM
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TAWAF TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TAWAF TV
 https://tvstreamcast.com/tawaftv.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MQTV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SURAU TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SURAU TV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", WESAL TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", WESAL TV
 https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ASHILL TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ASHILL TV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Peace Tv
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINE ACTION
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINE ACTION
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINE XTRA
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINE XTRA
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SUPERIX
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SUPERIX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", UNIQUES
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", UNIQUES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Z BIOSKOP
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Z BIOSKOP
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", UNIV STUDIO
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", UNIV STUDIO
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ID",HBO HD
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO HD
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306484
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ID",HBO HD (nt)
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.ts
 
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ID",HBO Hits HD (nt)
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO Hits HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/591.ts
 
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="ID",HBO Family HD (nt)
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO Family HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.ts
 
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="ID",HBO Signature HD (nt)
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO Signature HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.ts
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ID",HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HBO
 http://125.227.210.55:8153/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="ID",Bioskop Indonesia (nt)
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Bioskop Indonesia (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/908.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="ID",Citra Drama (nt)
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Citra Drama (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/905.ts
 
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="ID",Paramount Network (nt)
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Paramount Network (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/98.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="ID",FLIK HD (nt)
+#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",FLIK HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29592.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="ID",Galaxy Premium (nt)
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Galaxy Premium (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29603.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="ID",Galaxy (nt)
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Galaxy (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29604.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="ID",ATV(nt)
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",ATV(nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29899.ts
 
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="ID",Thrill (nt)
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Thrill (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/4.ts
 
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="ID",Celestial Movies (nt)
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Celestial Movies (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/5.ts
 
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="ID",KIX HD (nt)
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",KIX HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/8.ts
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="ID",AXN(nt)
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",AXN(nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/9.ts
 
-#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="HITS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="ID",HITS (nt)
+#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="HITS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HITS (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/94.ts
 
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="Hits Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="ID",Hits Movies HD(nt)
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="Hits Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Hits Movies HD(nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/99.ts
 
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="ID",Warner TV ID HD (nt)
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Warner TV ID HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1533.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="ID",My Cinema Asia (nt)
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",My Cinema Asia (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1859.ts
 
-#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="ID",Cinemax ID (nt)
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Cinemax ID (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2156.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="ID",Rock Action HD (nt)
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Rock Action HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1506.ts
 
-#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="ID",K Plus (nt)
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",K Plus (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/18.ts
 
-#EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="ID",Sony ONE (nt)
+#EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Sony ONE (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/19.ts
 
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="TVN ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="ID",TVN ID (nt)
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="TVN ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TVN ID (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/767.ts
 
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="ID",S GEM HD (nt)
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",S GEM HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/770.ts
 
-#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="ID",tVN Movies HD (nt)
+#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",tVN Movies HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/927.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="ID",KBS World HD (nt)
+#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",KBS World HD (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/15057.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Drama Korea LBS" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="ID",Drama Korea LBS(nt)
+#EXTINF:-1 tvg-id="" tvg-name="Drama Korea LBS" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Drama Korea LBS(nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/35769.ts
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINEMAX HD
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CINEMAX HD
 http://125.227.210.55:8151/VideoInput/play.ts
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CELESTIAL
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CELESTIAL
 https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CELESTIAL
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CELESTIAL
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/5.ts
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TVN MOVIE
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TVN MOVIE
 https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ROCK ACTION
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ROCK ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ROCK ENTERTAIMEN
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ROCK ENTERTAIMEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", My Cinema Europe
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", My Family Channel
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", My Family Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", My Cinema Asia
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", My Cinema Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Nadoo Korean
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Nadoo Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KBS World
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", K+
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", K+
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ETV BIOSKOP
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", ETV BIOSKOP
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CNN INTERNATIONAL
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", CNN INTERNATIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Discovery Asia
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Discovery CH
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", Discovery CH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/95.ts
 
-#EXTINF:0, tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DA VINCI
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", DA VINCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/36729.ts
 
 
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="ID",Aniplus (nt)
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Aniplus (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2.ts
 
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="ID",Animax (nt)
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Animax (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/3.ts
 
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="My Kidz" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="ID",My Kidz (nt)
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="My Kidz" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",My Kidz (nt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/213.ts
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Sctv_dens
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Sctv_dens
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
  
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",iNews_TV_play
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",iNews_TV_play
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",GARUDA
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",GARUDA
 http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BTV.
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BTV.
 http://edge.linknetott.swiftserve.com/channelgroup5/cg547production/ch360/01.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",RTV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",RTV••🇮🇩
 http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/05.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BANDUNG•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BANDUNG•TV••🇮🇩
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",KOMPAS•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",KOMPAS•TV••🇮🇩
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MAGNA•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MAGNA•TV••🇮🇩
 http://edge.metrotvnews.com:1935/live-edge/smil:magna.smil/chunklist_w515557532_b3884000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",METRO•GLOBE•NETWORK••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",METRO•GLOBE•NETWORK••🇮🇩
 http://edge.metrotvnews.com:1935/live-edge/smil:mgnch.smil/chunklist_w241242513_b2692000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HOME•BETANG•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",HOME•BETANG•TV••🇮🇩
 https://v3.siar.us:443/humabetangtv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",ADI•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",ADI•TV••🇮🇩
 https://v2.siar.us:443/aditv/livestream/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BMS•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BMS•TV••🇮🇩
 https://v2.siar.us:443/bmstv/livestream/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BADAR•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",BADAR•TV••🇮🇩
 https://v5.siar.us:443/badartv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",DHOHO•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",DHOHO•TV••🇮🇩
 https://v2.siar.us:443/dhohotv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",DUTA•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",DUTA•TV••🇮🇩
 https://o1.siar.us:443/dutatv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INSPIRA•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",INSPIRA•TV••🇮🇩
 https://v6.siar.us:443/inspiratv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",JAWAPOS•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",JAWAPOS•TV••🇮🇩
 https://v2.siar.us:443/jawapostv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MADU•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",MADU•TV••🇮🇩
 https://v6.siar.us:443/madutv/hd720/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",NUSANTARA•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",NUSANTARA•TV••🇮🇩
 https://v5.siar.us:443/nusantaratv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",PUJA•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",PUJA•TV••🇮🇩
 https://v6.siar.us:443/pujatv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",RCTV•🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",RCTV•🇮🇩
 https://v5.siar.us:443/rctv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SAKTI•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SAKTI•TV••🇮🇩
 https://v5.siar.us:443/saktitv/live/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SURABAYA•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",SURABAYA•TV••🇮🇩
 https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TATV••🇮🇩
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TATV••🇮🇩
 https://v2.siar.us:443/tatv/live.sdp/chunks.m3u8
 
 
-#EXTINF:-1 group-title="ID" tvg-logo="https://www.opp.no/applefavicon.png",Madu•TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID" tvg-logo="https://www.opp.no/applefavicon.png",Madu•TV
 https://v6.siar.us/madutv/hd720/chunks.m3u8?nimblesessionid=36081342
-#EXTINF:-1 group-title="ID" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d8af0adc-3611-4fcb-abd0-5aea9666bf26-profile_image-300x300.png",Dayak•TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d8af0adc-3611-4fcb-abd0-5aea9666bf26-profile_image-300x300.png",Dayak•TV
 https://v5.siar.us/dayaktv/live/chunks.m3u8?nimblesessionid=47350185
-#EXTINF:-1 group-title="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
 https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
-#EXTINF:-1 group-title="ID" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="ID",Jawapos TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Jawapos TV
 https://v2.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="ID",Kawanua TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Kawanua TV
 http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="ID",TATV Solo
+#EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TATV Solo
 https://v2.siar.us/tatv/live.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="ID",TV Tabalong
+#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
  
 
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Tvri_sports庐wpc
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",Tvri_sports庐wpc
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TRANStv_dt
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TRANStv_dt
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TRANS7_dt
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID",TRANS7_dt
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
  
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI_SPORT_denstv
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI_SPORT_denstv
 http://rr3.dens.tv/s/s107/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI_WORLD_ott
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI_WORLD_ott
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI_SPORT_ott
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI_SPORT_ott
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Nasional_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Nasional_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI World_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI World_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sport HD_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sport HD_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Aceh_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Aceh_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sumatra Utara_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sumatra Utara_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://list.iptvcat.com/my_list/s/24e35ada935df08510f1cbacb9004625.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sumatra Selatan_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sumatra Selatan_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sumatra Barat_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sumatra Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Bengkulu_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Bengkulu_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Riau_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Riau_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Jambi_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Jambi_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Lampung_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Lampung_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Bangka Belitung_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Bangka Belitung_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Kalimantan Barat_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Kalimantan Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Kalimantan Timur_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Kalimantan Timur_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Kalimantan Selatan_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Kalimantan Selatan_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Kalimantan Tengah_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Kalimantan Tengah_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI DKI Jakarta_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI DKI Jakarta_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Jawa Barat_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Jawa Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Jawa Tengah_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Jawa Tengah_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Yogyakarta_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Yogyakarta_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Jawa Timur_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Jawa Timur_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Bali_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Bali_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Nusa Tenggara Barat_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Nusa Tenggara Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Nusa Tenggara Timur_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Nusa Tenggara Timur_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Gorontalo_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Gorontalo_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Barat_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Tengah_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Tengah_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Utara_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Utara_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Tenggara_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Tenggara_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Selatan_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Sulawesi Selatan_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Maluku_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Maluku_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Papua_decoder=auto
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="TVRI",TVRI Papua_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
  
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PSJ TV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PSJ TV
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SOCCER 9
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SOCCER 9
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPORTSTARS
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPORTSTARS
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPOTV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPOTV
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", REAL MADRID
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", REAL MADRID
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MU TV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", MU TV
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPORTS TV
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", STRONGMAN
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", STRONGMAN
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", WWE
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", WWE
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TENSPORT
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", TENSPORT
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PTPSPORT
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", PTPSPORT
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", A SPORT
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", A SPORT
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV SPORT
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", RTV SPORT
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", EUROSPORT 1
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", EUROSPORT 1
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", EUROSPORT 2
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", EUROSPORT 2
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", W SPORT
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", W SPORT
 
 
-#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", FOX SPORT 1
+#EXTINF:-1  tvg-logo="https://www.opp.no/applefavicon.png" tvg-logo="https://www.opp.no/applefavicon.png" group-title="ID", FOX SPORT 1
 
 
 #EXTM3U billed-msg="Playlist INI Versi Gratis"
