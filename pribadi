@@ -2814,17 +2814,17 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png" group-title="MOVIES",HBO (FM)
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png" group-title="MOVIES",HBO
+http://iptvtree.net:8080/F28312/cc1dc138/306484
 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png" group-title="MOVIES",HBO Hits
+http://iptvtree.net:8080/F28312/cc1dc138/306486
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png" group-title="MOVIES",HBO Hits (FM)
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png" group-title="MOVIES",HBO Family
+http://iptvtree.net:8080/F28312/cc1dc138/306485
 
-
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png" group-title="MOVIES",HBO Family (FM) 
-
-
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png" group-title="MOVIES",HBO Signature (FM)
-
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png" group-title="MOVIES",HBO Signature
+http://iptvtree.net:8080/F28312/cc1dc138/306483
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png" group-title="MOVIES",HBO (T)
 
@@ -3050,10 +3050,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:0, tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax
 
 
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P-8Wi5TfBxhIq2jcvxT5ArUTxE0-CbbrqESJW3Ip_w&s" group-title="MOVIES", TVN MOVIES (V)
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P-8Wi5TfBxhIq2jcvxT5ArUTxE0-CbbrqESJW3Ip_w&s" group-title="MOVIES", TVN MOVIES
+http://iptvtree.net:8080/F28312/cc1dc138/157596
 
-
-#EXTINF:0, tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="MOVIES", TVN (V)
+#EXTINF:0, tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="MOVIES", TVN
+http://iptvtree.net:8080/F28312/cc1dc138/144886
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="MOVIES", ONE (V)
 
@@ -3064,8 +3065,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest/scale-to-width-down/150?cb=20190603053700" group-title="MOVIES", CELESTIAL CLASSIC (V)
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES", THRILL (V)
-
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES", THRILL
+http://iptvtree.net:8080/F28312/cc1dc138/157580
 
 #EXTINF:0, tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2-650x209.png" group-title="MOVIES", CINEMA WORLD
 
@@ -3078,23 +3079,24 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/p3Mr6nW/my-cinema-asia.png" group-title="MOVIES", MY CINEMA ASIA (V)
 
+#EXTINF:0, tvg-logo="https://i.ibb.co/8NJPsHg/hits-movie.png" group-title="MOVIES", HITS
+http://iptvtree.net:8080/F28312/cc1dc138/165085
 
-#EXTINF:0, tvg-logo="https://i.ibb.co/8NJPsHg/hits-movie.png" group-title="MOVIES", HITS MOVIE (V)
-
+#EXTINF:0, tvg-logo="https://i.ibb.co/8NJPsHg/hits-movie.png" group-title="MOVIES", HITS MOVIE
+http://iptvtree.net:8080/F28312/cc1dc138/221947
 
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/YL2qyDN/galaxy-premium.png" group-title="MOVIES", GALAXY PREMIUM
-
-
+http://iptvtree.net:8080/F28312/cc1dc138/264774
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/sPqr46j/galaxy.png" group-title="MOVIES", GALAXY
+http://iptvtree.net:8080/F28312/cc1dc138/264773
 
+#EXTINF:0, tvg-logo="https://i.ibb.co/Xjy8K4N/ROCK-ENTERTAINMENT.png" group-title="MOVIES", ROCK ENTERTAINMENT
+http://iptvtree.net:8080/F28312/cc1dc138/298565
 
-#EXTINF:0, tvg-logo="https://i.ibb.co/Xjy8K4N/ROCK-ENTERTAINMENT.png" group-title="MOVIES", ROCK ENTERTAINMENT (V)
-
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/DVNxZjx/ROCK-ACTION.png" group-title="MOVIES", ROCK ACTION (V)
-
+#EXTINF:0, tvg-logo="https://i.ibb.co/DVNxZjx/ROCK-ACTION.png" group-title="MOVIES", ROCK ACTION
+http://iptvtree.net:8080/F28312/cc1dc138/298490
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/4RXxrVG/KIX.png" group-title="MOVIES", KIX (V)
 
@@ -3102,14 +3104,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518" group-title="MOVIES", MACAU LOTUS
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="MOVIES", CHINESE DRAMA
-
+#EXTINF:0, tvg-logo="https://imageserver.srv.czcloud.i.mtvreg.com/png?image=http%3A%2F%2Ffilecdn.srv.czcloud.i.mtvreg.com%2Fcache%2Flogos512%2Faxn.png&width=256&height=256" group-title="MOVIES", AXN
+http://iptvtree.net:8080/F28312/cc1dc138/165079
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest/scale-to-width-down/732?cb=20220707061525&path-prefix=vi" group-title="MOVIES", CINEMA WORLD
-
+http://iptvtree.net:8080/F28312/cc1dc138/165082
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES", CINEMAX
-
+http://iptvtree.net:8080/F28312/cc1dc138/197964
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/Z8m2bHz/zee-bioskop.png" group-title="MOVIES", ZEE BIOSKOP (V)
 
@@ -3123,8 +3125,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:0, tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="MOVIES",Cinemax (T)
 
 
-#EXTINF:0, tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="MOVIES",Warner TV (T)
-
+#EXTINF:0, tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="MOVIES",Warner
+http://iptvtree.net:8080/F28312/cc1dc138/157594
 
 #EXTINF:0, tvg-logo="https://www.transvision.co.id/img/channel/new/ONE%20TV.jpg" group-title="MOVIES",One TV (T)
 
@@ -3162,8 +3164,7 @@ https://mt01.utako.moe/wlive/index.m3u8
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest?cb=20180131140829" group-title="MOVIES",WOWOW CINEMA
 https://mt01.utako.moe/wcinema/index.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282669.png" group-title="HBO",HBO EAST
-
+===============================================================================
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
@@ -3230,6 +3231,8 @@ https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1024px-New_Logo_TVRI.png" group-title="TVRI", TVRI Sulawesi Barat
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+===================================================================================
 
 #EXTINF:0, tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2017/06/Aniplus-Logo-Still-Video.jpg" group-title="KIDS",AniPlus
 
