@@ -1217,7 +1217,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",ANTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
+
 
 #EXTINF:0,  tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",INDOSIAR HD
 
@@ -1253,7 +1253,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",TV9
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
@@ -1279,7 +1279,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",MY CINEMA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",MYCINEMA ASIA
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
@@ -1287,7 +1287,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",MY FAMILY CHANNEL
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",MCE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1297,12 +1297,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",KIX
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",THRILL
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",ONE
 
@@ -1313,7 +1313,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",tvN MOVIE
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",tvN MOVIE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1382,15 +1382,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;useri
 
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",NASA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",TVRI SPORT
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI_Sport
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",FIGHT SPORTS
-http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",MOTORVISION
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1400,7 +1400,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",HORIZON SPORT
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=HorizonSports
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",SPOTV2
 
@@ -1408,7 +1408,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",W-SPORT
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",TRT WORLD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
