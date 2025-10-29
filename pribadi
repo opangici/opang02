@@ -4494,11 +4494,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png" group-title="MOVIES",HBO
 http://iptvtree.net:8080/F28312/cc1dc138/306484
 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png" group-title="MOVIES",HBO
+http://103.66.62.83:8000/play/a03e/index.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png" group-title="MOVIES",HBO Hits
 http://iptvtree.net:8080/F28312/cc1dc138/306486
 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png" group-title="MOVIES",HBO Hits
+http://103.66.62.83:8000/play/a03h/index.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png" group-title="MOVIES",HBO Family
 http://iptvtree.net:8080/F28312/cc1dc138/306485
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png" group-title="MOVIES",HBO Family
+http://103.66.62.83:8000/play/a03f/index.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png" group-title="MOVIES",HBO Signature
 http://iptvtree.net:8080/F28312/cc1dc138/306483
@@ -4516,6 +4525,33 @@ http://iptvtree.net:8080/F28312/cc1dc138/306483
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax (T)
+http://103.66.62.83:8000/play/a04g/index.m3u8
+
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png" group-title="MOVIES",HBO TW
+http://smart.cityq.xyz:8278/Hbo/playlist.m3u8?tid=MBFB6285247862852478&ct=20241&tsum=3dfc96c23ea99264ac3f9f239ec9b589
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png" group-title="MOVIES",HBO Hits TW
+http://smart.cityq.xyz:8278/Hbohits/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99780c41105f5b192c07c62f58d9c696
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png" group-title="MOVIES",HBO Signature TW
+http://smart.cityq.xyz:8278/Hbosignature/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cfb7493e59acd934f9c8c666e806ebf7
+
+
+#EXTINF:0, tvg-logo="" group-title="MOVIES",Lotus
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+
+#EXTINF:0, tvg-logo="" group-title="MOVIES",Lotus
+https://fenghuang.tv12.xyz/187.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="MOVIES",CHINESE DRAMA
+http://iptvtree.net:8080/F28312/cc1dc138/298516
+
+#EXTINF:0, tvg-logo="" group-title="MOVIES",CINEMAWORLD
+http://iptvtree.net:8080/F28312/cc1dc138/165082
+
+#EXTINF:0, tvg-logo="" group-title="MOVIES",FLIK
+http://iptvtree.net:8080/F28312/cc1dc138/165095
 
 #EXTINF:0, tvg-logo="https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=hbo" group-title="MOVIES",HBO (NS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
