@@ -67,10 +67,10 @@ https://bit.ly/3Sc6EFk
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/webarebears/images/d/d1/Logo_MDTV.png/revision/latest/thumbnail/width/360/height/450?cb=20250309124101&path-prefix=id" group-title="OPANG", MDTV HD ()
 
 #EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
-http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+
 
 #EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
-http://103.179.182.117:6768/hls/56/56.m3u8
+
 
 #EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -79,14 +79,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:0, tvg-id="ANTV" tvg-name="ANTV" tvg-url="http://www.mncvision.id.E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV (ox)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=antv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV (net)
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165072
+http://103.66.62.83:8000/play/a02k/index.m3u8
 
 
 #EXTINF:0, tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG", TVONE ()
@@ -194,26 +193,19 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="" group-title="OPANG" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png",Vision Prime
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/VTV_Indonesia_red.png/400px-VTV_Indonesia_red.png" group-title="OPANG",VTV
-
 #EXTINF:0 tvg-id="" tvg-name="OKTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="OPANG",OK TV
 
 
-
 #EXTINF:0 tvg-id="" tvg-name="OKZONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="OPANG",OK ZOne
-9
 
 
 #EXTINF:0 tvg-id="" tvg-name="MNC Ent" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/MNCChannelsNEW.png" group-title="OPANG",Celebrity
 
 
-
 #EXTINF:0 tvg-id="" tvg-name="MNC Ent" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/MNCChannelsNEW.png" group-title="OPANG",MNC Ent
 
 
-
 #EXTINF:0 tvg-id="" tvg-name="MNC Ent" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/MNCChannelsNEW.png" group-title="OPANG",MNC Info
-
 
 
 #EXTINF:0 tvg-id="" tvg-name="MNC" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png/revision/latest?cb=20210330144812" group-title="OPANG",Music TV
@@ -351,17 +343,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
 
 #EXTINF:0, tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/Xing-Kong.jpg" group-title="OPANG",Xingkong TV
-http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+
 
 
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="OPANG",ASIAN FOOD NETWORK
 
 
 #EXTINF:0, tvg-id="ext" group-title="OPANG"RAI  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/2560px-Rai_Italia_-_Logo_2017.svg.png",RAI Italia
-http://rr3.dens.tv/s/s63/index2.m3u8
+
 
 #EXTINF:0, tvg-id="ext" group-title="OPANG"RTP  tvg-logo="https://s317consulting.com/wp-content/uploads/bfi_thumb/rtp-2xnm99evu047dam356rmq860uflkbw03jb8xb44cn1cfc1xzc.png",RTP
-http://rr2.dens.tv/s/s38/01.m3u8
+
 
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/alk3ahK.png" group-title="OPANG",History
 
@@ -383,10 +375,10 @@ http://rr2.dens.tv/s/s38/01.m3u8
 
 
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/220px-Discovery_Asia_logo.svg.png" group-title="OPANG",Discovery Asia
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryasia.m3u8
+
 
 #EXTINF:0, tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaLVpEllmCxmZLwdpwFuyGnvaAHvill_eNOQupy8w=s900-c-k-c0x00ffffff-no-rj" group-title="OPANG",XPLORE
-https://xplore-roku.amagi.tv/playlist720-p.m3u8
+
 
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/BBC%20Earth_0.png" group-title="OPANG",BBC 
 
@@ -398,25 +390,25 @@ https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0, tvg-id="SmithsonianChannelAsia.us" tvg-name="" tvg-logo="https://i.imgur.com/wtf0hg5.png" group-title="OPANG",Smithsonian Channel HD
-http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bpHH6Wj.png" group-title="OPANG",Love Nature
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/lovenature.m3u8
+
 
 #EXTINF:0, tvg-logo="http://dusktill.masuk.web.id/img/cgtndoc.png" group-title="OPANG",CGTN DOCUMENTARY
 
 
 #EXTINF:0, tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="OPANG",NASA TV 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://skymedia.it/wp-content/uploads/2021/09/CI_LOGO_WHITE_NO_BG_CMYK-TM-1.png" group-title="OPANG",Crime Investigation
 
 
 #EXTINF:0, tvg-id="ext" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="OPANG",Biznet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
 
 
 #EXTINF:0, tvg-id="ext" tvg-logo="https://e7.pngegg.com/pngimages/962/543/png-clipart-mnc-sports-mnc-channels-television-channel-daftar-acara-rcti-television-text-thumbnail.png" group-title="OPANG",MNC sport1
@@ -442,7 +434,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 
 #EXTINF:0, tvg-id="ext" group-title="OPANG" tvg-logo="https://i.imgur.com/FP0Nhnx.png",beIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
+
 
 
 #EXTINF:0, tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.imgur.com/BRZ8rmA.png" group-title="OPANG",SPO TV HD
@@ -456,7 +448,7 @@ https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
 #EXTINF:0, tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="OPANG",Motorvision
-http://rr.dens.tv/h/h09/01.m3u8
+
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest/scale-to-width-down/284?cb=20200428062800" group-title="OPANG", Champions TV 1
 
@@ -475,14 +467,14 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/185?cb=20170731002804" group-title="OPANG",NBA TV
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nba&gumisasakTV=default&sync=0
+
 
 
 #EXTINF:0, tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png" group-title="OPANG",Fight Sports
 
 
 #EXTINF:0, tvg-id="Erz.ufc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&amp;usqp=CAU" group-title="OPANG",UFC Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8
+
 
 
 #EXTINF:0, tvg-id="CartoonNetworkAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cartoonnetwork.png" group-title="OPANG",Cartoon Network
@@ -497,7 +489,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_b
 
 
 #EXTINF:0, tvg-id="B-KIDS" tvg-name="" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="OPANG",B-KIDS
-http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+
 
 #EXTINF:0, tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="OPANG",Baby TV
 
@@ -506,7 +498,7 @@ http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bi
 
 
 #EXTINF:0, tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="OPANG",ANIPLUS
-http://103.167.167.5:8111/play/a033/index.m3u8
+
 
 #EXTINF:0, tvg-logo="https://docplayer.info/docs-images/75/72882473/images/40-0.jpg" group-title="OPANG",HOREE
 
@@ -525,7 +517,6 @@ http://103.167.167.5:8111/play/a033/index.m3u8
 
 
 #EXTINF:0, tvg-logo="https://toon-kids.com/media/images/general/logo.png" group-title="OPANG",Toon Kids
-http://210.210.155.37/x6bnqe/s/s81/01.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Toonz_Kids
 
 
 #EXTINF:0, tvg-id="AlQuran.tv" tvg-name="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/fullhd_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="OPANG",AlQuran Tv
@@ -4075,7 +4066,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6a/IMTV_.png/320px-IMTV_.png" group-title="INDONESIA",IMTV
 
 
-#EXTINF:0, tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="INDONESIA" VTV
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="INDONESIA", VTV
 http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
 
 #EXTINF:0, tvg-logo="" group-title="INDONESIA",KB TV
