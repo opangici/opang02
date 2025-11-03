@@ -4348,7 +4348,9 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 ==============================================================================================
 
 #EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES", IMC (M)
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_IMC_Channel.png" group-title="Premium Movies",Indonesia Movie Channel
 
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0033Tk9BQfXqrkCa4yG4yqUu7eV3hXvEFKW04Pt2WQO6pEPmNTE9Z7mzqpcl_1woKw&usqp=CAU" group-title="MOVIES",Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -4741,6 +4743,12 @@ https://mt01.utako.moe/wlive/index.m3u8
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest?cb=20180131140829" group-title="MOVIES",WOWOW CINEMA
 https://mt01.utako.moe/wcinema/index.m3u8
+
+#EXTINF:0, group-title="MOVIES", Zee Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 
 ===============================================================================
 
