@@ -4062,299 +4062,72 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 
 ---------------------------------------
-
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TRANS TV HD
 http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TRANS TV 
-http://103.66.62.83:8000/play/a020/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TRANSTV HD. 
-http://103.66.62.83:8000/play/a06i/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TRANS 7 HD
 http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TRANS 7 
-http://103.66.62.83:8000/play/a022/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TRANS 7 HD. 
-http://103.66.62.83:8000/play/a06l/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SCTV HD
 http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SCTV 
-http://103.66.62.83:8000/play/a01t/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SCTV HD. 
-http://103.66.62.83:8000/play/a068/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",INDOSIAR HD
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",INDOSIAR 
-http://103.66.62.83:8000/play/a001/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",INDOSIAR HD. 
-http://103.66.62.83:8000/play/a069/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",RCTI HD. 
-http://103.66.62.83:8000/play/a06k/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",RCTI 
-http://103.66.62.83:8000/play/a02o/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MNCTV HD. 
-http://103.66.62.83:8000/play/a06j/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MNCTV-JBV 
-http://103.66.62.83:8000/play/a062/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MNCTV 
-http://103.66.62.83:8000/play/a02n/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",GTV 
-http://103.66.62.83:8000/play/a02m/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",GTV HD. 
-http://103.66.62.83:8000/play/a06h/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MOJI HD
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MOJI HD 
-http://103.66.62.83:8000/play/a02q/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MOJI 
-http://103.66.62.83:8000/play/a065/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MENTARITV HD
 http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ANTV HD
 http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ANTV
-http://103.66.62.83:8000/play/a02k/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ANTV HD. 
-http://103.66.62.83:8000/play/a06o/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVONE HD
 http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TV ONE 
-http://103.66.62.83:8000/play/a02s/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVONE HD. 
-http://103.66.62.83:8000/play/a06n/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",VTV HD
 http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",AKTTV
-http://103.170.33.11:9981/stream/channelid/727092680?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",RTV HD
 http://103.170.33.11:9981/stream/channelid/97833158?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",RTV 
-http://103.66.62.83:8000/play/a02l/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",KOMPAS TV 
-http://103.66.62.83:8000/play/a023/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",METRO TV HD
-http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",KOMPASTV HD. 
-http://103.66.62.83:8000/play/a06m/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",METRO TV 
-http://103.66.62.83:8000/play/a02t/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MAGNA 
-http://103.66.62.83:8000/play/a026/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MD TV 
-http://103.66.62.83:8000/play/a02j/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",GARUDA TV
 http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
+
+#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",METRO TV HD
+http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CNN INDONESIA HD
 http://103.170.33.11:9981/stream/channelid/1778435157?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CNBC INDONESIA HD
 http://103.170.33.11:9981/stream/channelid/2057335691?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CNBC INDO 
-http://103.66.62.83:8000/play/a025/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CNN INDO 
-http://103.66.62.83:8000/play/a024/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",DAAI TV 
-http://103.66.62.83:8000/play/a02p/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",NUSANTARA TV
 http://103.170.33.11:9981/stream/channelid/133753?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",NUSANTARA TV 
-http://103.66.62.83:8000/play/a04t/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TV 9 NUSANTARA 
-http://103.66.62.83:8000/play/a031/index.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",BN CHANNEL
 http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",UGTV
-http://103.170.33.11:9981/stream/channelid/1348049525?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SMILE TV
-http://103.170.33.11:9981/stream/channelid/1362486706?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",Cipta TV
 http://103.170.33.11:9981/stream/channelid/1723433589?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI Sport HD
 http://103.170.33.11:9981/stream/channelid/768175194?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI NASIONAL
 http://103.170.33.11:9981/stream/channelid/1445163356?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI DKI HD
 http://103.170.33.11:9981/stream/channelid/10452627?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI WORLD
-http://103.170.33.11:9981/stream/channelid/485068452?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI NASIONAL 
-http://103.66.62.83:8000/play/a02r/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI WORLD 
-http://103.66.62.83:8000/play/a04s/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI-JAMBI 
-http://103.66.62.83:8000/play/a02i/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI-SPORT 
-http://103.66.62.83:8000/play/a00n/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ELSHINTA
-http://103.170.33.11:9981/stream/channelid/262418738?profile=pass
+
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",DAAI tv
 http://103.170.33.11:9981/stream/channelid/383077948?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",Inspira TV
-http://103.170.33.11:9981/stream/channelid/874818173?profile=pass
 
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",BR TV
-http://103.170.33.11:9981/stream/channelid/1874075905?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",JAMBI-TV 
-http://103.66.62.83:8000/play/a02h/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",tvMu
 http://103.170.33.11:9981/stream/channelid/1992433020?profile=pass
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",FATWA 
-http://103.66.62.83:8000/play/a04p/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",QURAN TV 
-http://103.66.62.83:8000/play/a02v/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",RODJA TV 
-http://103.66.62.83:8000/play/a02u/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI SPORTS HD. 
-http://103.66.62.83:8000/play/a06r/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TVRI JAMBI. 
-http://103.66.62.83:8000/play/a06s/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",JAMBITV HD. 
-http://103.66.62.83:8000/play/a06t/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MDTV HD. 
-http://103.66.62.83:8000/play/a06u/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",RTV HD. 
-http://103.66.62.83:8000/play/a06v/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MOJI.HD. 
-http://103.66.62.83:8000/play/a06a/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MENTARI.HD. 
-http://103.66.62.83:8000/play/a06b/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",METROTV.HD. 
-http://103.66.62.83:8000/play/a06c/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CNBC.HD. 
-http://103.66.62.83:8000/play/a06d/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CCN.HD. 
-http://103.66.62.83:8000/play/a06e/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",INEWS.HD. 
-http://103.66.62.83:8000/play/a06f/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",VTV.HD. 
-http://103.66.62.83:8000/play/a06g/index.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",AFN
-http://103.66.62.83:8000/play/a042/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ANHUI
-http://103.66.62.83:8000/play/a04c/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ANIMAL PLANET
-http://103.66.62.83:8000/play/a02z/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ANIMAX
-http://103.66.62.83:8000/play/a02y/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ANIPLUS
-http://103.66.62.83:8000/play/a04l/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",AXN
-http://103.66.62.83:8000/play/a01g/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",BBC NEWS 
-http://103.66.62.83:8000/play/a04v/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SPOTV HD 
-http://103.66.62.83:8000/play/a036/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",BIOSKOP INDONESIA 
-http://103.66.62.83:8000/play/a04m/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",BLOOMBERG 
-http://103.66.62.83:8000/play/a041/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CCTV 10 
-http://103.66.62.83:8000/play/a04a/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CCTV 15 
-http://103.66.62.83:8000/play/a049/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CCTV 2 
-http://103.66.62.83:8000/play/a047/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CCTV 4 
-http://103.66.62.83:8000/play/a048/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CELESTIAL CLASSIC MOVIES 
-http://103.66.62.83:8000/play/a03k/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CELESTIAL MOVIES 
-http://103.66.62.83:8000/play/a03j/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CGTN DOC 
-http://103.66.62.83:8000/play/a033/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CHANNEL-8 (SGP) 
-http://103.66.62.83:8000/play/a004/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CHINESE DRAMA 
-http://103.66.62.83:8000/play/a04h/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CINEMAX 
-http://103.66.62.83:8000/play/a04g/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",CNA 
-http://103.66.62.83:8000/play/a04u/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",DISCOVERY CHANNEL 
-http://103.66.62.83:8000/play/a030/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",DISNEY 
-http://103.66.62.83:8000/play/a02w/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",DISNEY JR 
-http://103.66.62.83:8000/play/a02x/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",DREAMWORK 
-http://103.66.62.83:8000/play/a04j/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",FASHION TV 
-http://103.66.62.83:8000/play/a04i/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",FIGHT TV 
-http://103.66.62.83:8000/play/a03d/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",FLIK 
-http://103.66.62.83:8000/play/a04q/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",FORMOSA TV 
-http://103.66.62.83:8000/play/a03x/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",GALAXY 
-http://103.66.62.83:8000/play/a03o/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",GALAXY PREMIUM 
-http://103.66.62.83:8000/play/a03p/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",HBO 
-http://103.66.62.83:8000/play/a03e/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",HBO FAMILY 
-http://103.66.62.83:8000/play/a03f/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",HBO HITS 
-http://103.66.62.83:8000/play/a03h/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",HITS 
-http://103.66.62.83:8000/play/a040/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",K+ 
-http://103.66.62.83:8000/play/a03u/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",KANGBA 
-http://103.66.62.83:8000/play/a04b/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",KBS WORLD 
-http://103.66.62.83:8000/play/a03w/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",KIX 
-http://103.66.62.83:8000/play/a01d/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",Love Nature HD 
-http://103.66.62.83:8000/play/a01l/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MIC TV 
-http://103.66.62.83:8000/play/a02b/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",MKIDZ 
-http://103.66.62.83:8000/play/a04k/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",OUTDOOR 
-http://103.66.62.83:8000/play/a04f/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",Nick Jr 
-http://103.66.62.83:8000/play/a01e/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",Nickelodeon 
-http://103.66.62.83:8000/play/a01f/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",PBS KIDS 
-http://103.66.62.83:8000/play/a027/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",PHOENIX CH 
-http://103.66.62.83:8000/play/a044/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",PHOENIX NEWS 
-http://103.66.62.83:8000/play/a045/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",REDBULL TV 
-http://103.66.62.83:8000/play/a03c/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ROCK ACTION 
-http://103.66.62.83:8000/play/a03n/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ROCK ENTERTAINMET 
-http://103.66.62.83:8000/play/a03q/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SICHUAN 
-http://103.66.62.83:8000/play/a04e/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SONY ONE 
-http://103.66.62.83:8000/play/a03z/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SPOTV 
-http://103.66.62.83:8000/play/a034/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",SPOTV 2 
-http://103.66.62.83:8000/play/a035/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",THRILL 
-http://103.66.62.83:8000/play/a03s/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",TZU CHI 
-http://103.66.62.83:8000/play/a032/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",WB 
-http://103.66.62.83:8000/play/a03t/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",WORLD FISHING-SPORT 
-http://103.66.62.83:8000/play/a03b/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ZEE BIOSKOP 
-http://103.66.62.83:8000/play/a04n/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ZHEJIANG 
-http://103.66.62.83:8000/play/a04d/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",ZooMoo 
-http://103.66.62.83:8000/play/a01j/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",tvN 
-http://103.66.62.83:8000/play/a00z/index.m3u8
-#EXTINF:0, tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/iptv-icon-svg-download-png-640373.png" group-title="SVR2",tvN MOVIES 
-http://103.66.62.83:8000/play/a03i/index.m3u8
 
 ---------------------------------------
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6a/IMTV_.png/320px-IMTV_.png" group-title="INDONESIA",IMTV
