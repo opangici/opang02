@@ -3589,6 +3589,23 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:0 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTOHD.png" group-title="INDONESIA",USEE PHOTO
 ==============================================================================================
 
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0, tvg-id="HBO" group-title="MOVIES" tvg-logo="https://iili.io/Ju79f8g.png",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0, tvg-id="HBOHits" group-title="MOVIES" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0, tvg-id="HBOFamily" group-title="MOVIES" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0, tvg-id="HBOSig" group-title="MOVIES" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0, tvg-id="Cinemax" group-title="MOVIES" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
 #EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES", IMC (M)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3708,27 +3725,6 @@ https://fenghuang.tv12.xyz/187.m3u8
 #EXTINF:0, tvg-logo="" group-title="MOVIES",FLIK
 
 
-#EXTINF:0, tvg-logo="https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=hbo" group-title="MOVIES",HBO (NS)
-
-
-#EXTINF:0, tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits (NS)
-
-
-
-#EXTINF:0, tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits
-
-#EXTINF:0, tvg-logo="https://logodix.com/logo/789245.png" group-title="MOVIES",HBO Family (NS)
-
-
-#EXTINF:0, tvg-logo="https://logodix.com/logo/789245.png" group-title="MOVIES",HBO Family
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature (NS)
-
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
-
-
-#EXTINF:0, tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax (NS)
 
 
 #EXTINF:0, tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="MOVIES",HBO Plus
@@ -3823,7 +3819,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/in
 
 #EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png", AXN V+
 
-
+#EXTINF:-1 group-title="MOVIES" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="MOVIES",Thriil
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:0, tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_IMC_Channel.png" group-title="MOVIES",Indonesia Movie Channel
 
@@ -3991,9 +3990,6 @@ http://iptvtree.net:8080/F28312/cc1dc138/157594
 
 #EXTINF:0, tvg-logo="https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg" group-title="MOVIES",Gem TV
 
-
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/mudae/images/1/1e/Horror_Genre_Logo.png" group-title="MOVIES",HORROR MACHINE (18+)
-https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="MOVIES",MYTIME MOVIE
 https://mytime-tcl.amagi.tv/playlist.m3u8
