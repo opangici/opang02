@@ -45,9 +45,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:0, tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG",Trans TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
-#EXTINF:0, tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG",Trans TV (st)
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
@@ -75,10 +72,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV (ox)
 http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV (net)
-
-
 
 #EXTINF:0, tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG", TVONE
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
