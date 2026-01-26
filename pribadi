@@ -1,13 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG",RCTI
-
+https://allcutv.rctiplus.id/rcti2023.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG", RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
+https://allcutv.rctiplus.id/mnctv2023.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -16,6 +18,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG",GLOBAL TV
+https://allcutv.rctiplus.id/gtv2023.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG",GLOBAL TV HD
 #EXTVLCOPT:http-user-agent=android-R+
