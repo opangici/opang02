@@ -7,22 +7,22 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
-https://allcutv.rctiplus.id/mnctv2023.m3u8
+#https://allcutv.rctiplus.id/mnctv2023.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG",GLOBAL TV
-https://allcutv.rctiplus.id/gtv2023.m3u8
+#https://allcutv.rctiplus.id/gtv2023.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG",GLOBAL TV HD
 
 
 #EXTINF:0, group-title="OPANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png", GTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png" group-title="OPANG",Trans 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -32,7 +32,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png" group-title="OPANG",Trans 7
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+
 
 #EXTINF:0, tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -42,7 +42,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:0, tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG",Trans TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -67,20 +67,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:0, tvg-id="ANTV" tvg-name="ANTV" tvg-url="http://www.mncvision.id.E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV (ox)
 
 
 #EXTINF:0, tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG", TVONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
-#EXTINF:0, tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG",tvOne
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
-
-#EXTINF:0, tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG",tvOne
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -90,9 +82,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
  
 #EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="OPANG",Jak TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+
+
 
 #EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="OPANG",Jak TV
 
@@ -926,152 +917,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 ======================================================================
 
 
-
-======================================================================
-#EXTINF:0, group-title="SVR1",TVRI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
-#EXTINF:0, group-title="SVR1", RCTI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-#EXTINF:0, group-title="SVR1", GTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-#EXTINF:0, group-title="SVR1", MNCTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:0, group-title="SVR1", MNC
-http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:0, group-title="SVR1", ANTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-#EXTINF:0, group-title="SVR1", MDTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-#EXTINF:0, group-title="SVR1", TRANS7
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-#EXTINF:0, group-title="SVR1", TRANSTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-#EXTINF:0, group-title="SVR1", METRO
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
-#EXTINF:0, group-title="SVR1", TVONE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
-#EXTINF:0, group-title="SVR1", KOMPAS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
-#EXTINF:0, group-title="SVR1", INEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:0, group-title="SVR1", RTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
-#EXTINF:0, group-title="SVR1", BTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-#EXTINF:0, group-title="SVR1", JTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
-#EXTINF:0, group-title="SVR1", UNIQUES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
-#EXTINF:0, group-title="SVR1", VISION
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
-#EXTINF:0, group-title="SVR1", MNC GROUP
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000109/1024.m3u8
-#EXTINF:0, group-title="SVR1", MNC GROUP
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
-#EXTINF:0, group-title="SVR1", MTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
-#EXTINF:0, group-title="SVR1", ENT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
-#EXTINF:0, group-title="SVR1", CELEB
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
-#EXTINF:0, group-title="SVR1", IDX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
-#EXTINF:0, group-title="SVR1", HANACARAKA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
-#EXTINF:0, group-title="SVR1", DAAI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
-#EXTINF:0, group-title="SVR1", VISION PRIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
-#EXTINF:0, group-title="SVR1", DMI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
-#EXTINF:0, group-title="SVR1", CINEEDGE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
-#EXTINF:0, group-title="SVR1", SUPERRIX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
-#EXTINF:0, group-title="SVR1", Movie
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
-#EXTINF:0, group-title="SVR1", GALAXY PREMIUM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
-#EXTINF:0, group-title="SVR1", GALAXY
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
-#EXTINF:0, group-title="SVR1", CM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#EXTINF:0, group-title="SVR1", CCM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
-#EXTINF:0, group-title="SVR1", HITS MOVIES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
-#EXTINF:0, group-title="SVR1", KIX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-#EXTINF:0, group-title="SVR1", STUDIO UNIVERSAL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
-#EXTINF:0, group-title="SVR1", TVN MOVIES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
-#EXTINF:0, group-title="SVR1", THRILL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
-#EXTINF:0, group-title="SVR1", IMC
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
-#EXTINF:0, group-title="SVR1", R ACTION
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-#EXTINF:0, group-title="SVR1", R ENT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
-#EXTINF:0, group-title="SVR1", HITS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-#EXTINF:0, group-title="SVR1", ONE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-#EXTINF:0, group-title="SVR1", TVN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
-#EXTINF:0, group-title="SVR1", LIFE TIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
-#EXTINF:0, group-title="SVR1", ZBIOSKOP
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
-#EXTINF:0, group-title="SVR1", GLOBAL TREKKER
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-#EXTINF:0, group-title="SVR1", HISTORY
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
-#EXTINF:0, group-title="SVR1", LOVE NATURE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
-#EXTINF:0, group-title="SVR1", OUTDOOR
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
-#EXTINF:0, group-title="SVR1", ONE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-#EXTINF:0, group-title="SVR1", AXN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
-#EXTINF:0, group-title="SVR1", VISION PRIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000112/1024.m3u8
-#EXTINF:0, group-title="SVR1", TV5 MONDE ASIE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
-#EXTINF:0, group-title="SVR1", TV9
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/1024.m3u8
-#EXTINF:0, group-title="SVR1", CRIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
-#EXTINF:0, group-title="SVR1", ARIRANG
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-#EXTINF:0, group-title="SVR1", CGTN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
-#EXTINF:0, group-title="SVR1", CHINA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
-#EXTINF:0, group-title="SVR1", CHINA2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
-#EXTINF:0, group-title="SVR1", CHINA3
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
-#EXTINF:0, group-title="SVR1", FIGHT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-#EXTINF:0, group-title="SVR1", SPOTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-#EXTINF:0, group-title="SVR1", SPOTV2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:0, group-title="SVR1", BEIN 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
-#EXTINF:0, group-title="SVR1", SOCCER
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
-#EXTINF:0, group-title="SVR1", SPORTSTAR2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-#EXTINF:0, group-title="SVR1", SPORTSTAR4
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:0, group-title="SVR1", QURAN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
-#EXTINF:0, group-title="SVR1", MUSLIM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 ======================================================================
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/d1/fc/af/d1fcafa9a464251ee3a8d6b76b0e303b.png" group-title="IPTV1",TRANS7
@@ -3201,152 +3046,6 @@ https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Spongebob
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DisneyJr/live.m3u8
 
 ================================================================
-#EXTINF:0, group-title="SVR1",TVRI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
-#EXTINF:0, group-title="SVR1", RCTI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-#EXTINF:0, group-title="SVR1", GTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-#EXTINF:0, group-title="SVR1", MNCTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:0, group-title="SVR1", MNC
-http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:0, group-title="SVR1", ANTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-#EXTINF:0, group-title="SVR1", MDTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-#EXTINF:0, group-title="SVR1", TRANS7
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-#EXTINF:0, group-title="SVR1", TRANSTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-#EXTINF:0, group-title="SVR1", METRO
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
-#EXTINF:0, group-title="SVR1", TVONE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
-#EXTINF:0, group-title="SVR1", KOMPAS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
-#EXTINF:0, group-title="SVR1", INEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:0, group-title="SVR1", RTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
-#EXTINF:0, group-title="SVR1", BTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-#EXTINF:0, group-title="SVR1", JTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
-#EXTINF:0, group-title="SVR1", UNIQUES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
-#EXTINF:0, group-title="SVR1", VISION
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
-#EXTINF:0, group-title="SVR1", MNC GROUP
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000109/1024.m3u8
-#EXTINF:0, group-title="SVR1", MNC GROUP
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
-#EXTINF:0, group-title="SVR1", MTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
-#EXTINF:0, group-title="SVR1", ENT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
-#EXTINF:0, group-title="SVR1", CELEB
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
-#EXTINF:0, group-title="SVR1", IDX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
-#EXTINF:0, group-title="SVR1", HANACARAKA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
-#EXTINF:0, group-title="SVR1", DAAI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
-#EXTINF:0, group-title="SVR1", VISION PRIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
-#EXTINF:0, group-title="SVR1", DMI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
-#EXTINF:0, group-title="SVR1", CINEEDGE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
-#EXTINF:0, group-title="SVR1", SUPERRIX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
-#EXTINF:0, group-title="SVR1", Movie
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
-#EXTINF:0, group-title="SVR1", GALAXY PREMIUM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
-#EXTINF:0, group-title="SVR1", GALAXY
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
-#EXTINF:0, group-title="SVR1", CM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#EXTINF:0, group-title="SVR1", CCM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
-#EXTINF:0, group-title="SVR1", HITS MOVIES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
-#EXTINF:0, group-title="SVR1", KIX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-#EXTINF:0, group-title="SVR1", STUDIO UNIVERSAL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
-#EXTINF:0, group-title="SVR1", TVN MOVIES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
-#EXTINF:0, group-title="SVR1", THRILL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
-#EXTINF:0, group-title="SVR1", IMC
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
-#EXTINF:0, group-title="SVR1", R ACTION
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-#EXTINF:0, group-title="SVR1", R ENT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
-#EXTINF:0, group-title="SVR1", HITS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-#EXTINF:0, group-title="SVR1", ONE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-#EXTINF:0, group-title="SVR1", TVN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
-#EXTINF:0, group-title="SVR1", LIFE TIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
-#EXTINF:0, group-title="SVR1", ZBIOSKOP
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
-#EXTINF:0, group-title="SVR1", GLOBAL TREKKER
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-#EXTINF:0, group-title="SVR1", HISTORY
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
-#EXTINF:0, group-title="SVR1", LOVE NATURE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
-#EXTINF:0, group-title="SVR1", OUTDOOR
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
-#EXTINF:0, group-title="SVR1", ONE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-#EXTINF:0, group-title="SVR1", AXN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
-#EXTINF:0, group-title="SVR1", VISION PRIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000112/1024.m3u8
-#EXTINF:0, group-title="SVR1", TV5 MONDE ASIE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
-#EXTINF:0, group-title="SVR1", TV9
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/1024.m3u8
-#EXTINF:0, group-title="SVR1", CRIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
-#EXTINF:0, group-title="SVR1", ARIRANG
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-#EXTINF:0, group-title="SVR1", CGTN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
-#EXTINF:0, group-title="SVR1", CHINA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
-#EXTINF:0, group-title="SVR1", CHINA2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
-#EXTINF:0, group-title="SVR1", CHINA3
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
-#EXTINF:0, group-title="SVR1", FIGHT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-#EXTINF:0, group-title="SVR1", SPOTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-#EXTINF:0, group-title="SVR1", SPOTV2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:0, group-title="SVR1", BEIN 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
-#EXTINF:0, group-title="SVR1", SOCCER
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
-#EXTINF:0, group-title="SVR1", SPORTSTAR2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-#EXTINF:0, group-title="SVR1", SPORTSTAR4
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:0, group-title="SVR1", QURAN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
-#EXTINF:0, group-title="SVR1", MUSLIM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
-
----------------------------------------
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6a/IMTV_.png/320px-IMTV_.png" group-title="INDONESIA",IMTV
 
@@ -5080,10 +4779,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPOTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png" group-title="SPORT", SPOTV2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
 
 #EXTINF:0, tvg-logo="https://iili.io/Jp5oxpt.png" group-title="SPORT" , NBC SPORTS 
 
