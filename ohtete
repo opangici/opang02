@@ -4,19 +4,19 @@
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG", RCTI (R+)
-
+http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG",MNC TV
-
+http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG",GLOBAL TV
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG",GLOBAL TV HD
-
+http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
 
 #EXTINF:0, group-title="OPANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png", GTV
 
