@@ -128,6 +128,18 @@ https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-95-HD/defau
 #KODIPROP:inputstream.adaptive.license_key=784d6b54efe3a13dc1fbcda17e5804db:b4f4814e01943f910b62e6bfd0c23728
 https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-92-HD/default.mpd
 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", Unites Sport
+http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", FussHball
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", TSN 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", Caze
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 ==========================================================================================================================================
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG", RCTI (R+)
