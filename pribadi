@@ -2,10 +2,10 @@
 
 
 
-#EXTINF:0, tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", SABC 
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", SABC 
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/Xq9m8Nd.jpeg" group-title="CUP 2026", RTVS Sport
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xq9m8Nd.jpeg" group-title="CUP 2026", RTVS Sport
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1elamatLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -14,39 +14,39 @@ https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" group-title="CUP 2026", beIN Sports France 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" group-title="CUP 2026", beIN Sports France 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2499/index.m3u8
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" group-title="CUP 2026", beIN Sports France 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" group-title="CUP 2026", beIN Sports France 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2500/index.m3u8
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" group-title="CUP 2026", beIN Sports Qatar 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" group-title="CUP 2026", beIN Sports Qatar 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353014
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" group-title="CUP 2026", beIN Sports Qatar 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" group-title="CUP 2026", beIN Sports Qatar 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353015
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/fEcK3X2.jpeg" group-title="CUP 2026", beIN Sports Qatar 3
+#EXTINF:0 tvg-logo="https://i.imgur.com/fEcK3X2.jpeg" group-title="CUP 2026", beIN Sports Qatar 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353016
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/YSLWDO0.jpeg" group-title="CUP 2026", beIN Sports Qatar 4
+#EXTINF:0 tvg-logo="https://i.imgur.com/YSLWDO0.jpeg" group-title="CUP 2026", beIN Sports Qatar 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353017
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/nKFtaha.jpeg" group-title="CUP 2026", beIN Sports Qatar 5
+#EXTINF:0 tvg-logo="https://i.imgur.com/nKFtaha.jpeg" group-title="CUP 2026", beIN Sports Qatar 5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353018
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/L1kW5Pi.jpeg" group-title="CUP 2026", beIN Sports Qatar 6
+#EXTINF:0 tvg-logo="https://i.imgur.com/L1kW5Pi.jpeg" group-title="CUP 2026", beIN Sports Qatar 6
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353019
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/WIYY4Wk.jpeg" group-title="CUP 2026", beIN Sports Qatar 7
+#EXTINF:0 tvg-logo="https://i.imgur.com/WIYY4Wk.jpeg" group-title="CUP 2026", beIN Sports Qatar 7
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353020
 
@@ -54,18 +54,18 @@ http://opplextv.cyou:8080/nasir6160/nasir/353020
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:0, tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026",CCTV5+
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 http://69.30.246.194/live/cctv5p.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:0, tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026",CCTV5
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026",CCTV5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://69.30.245.50/live/cctv5.m3u8
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", RTVS SPORT SLOVAKIA
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", RTVS SPORT SLOVAKIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -74,47 +74,47 @@ http://74.91.26.218:82/live/cctv5hd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
-#EXTINF:0, tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", LAS ESTRELLAS
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", FOX USA
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", FOX USA
 http://stream.cammonitorplus.net/1772/index.m3u
 
-#EXTINF:0, tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", TIPIK 1
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="CUP 2026", TIPIK 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:0, tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026  
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://ncdn.telewebion.ir/sport2/live/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026  
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://ncdn.telewebion.ir/sport1/live/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026  
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026  
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce8f86d2f0d1638574237ada8ac2e82a:642772ebf1832f1f2fa58cb7e8fcfd05
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
 
-#EXTINF:0, tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9696c2f12e487aafe1dc96d16d0db658:159fd5dc3b0d9e0d75f856e95e225801
 https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-95-HD/default.mpd
 
-#EXTINF:0, tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CUP 2026", WC2026 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784d6b54efe3a13dc1fbcda17e5804db:b4f4814e01943f910b62e6bfd0c23728
