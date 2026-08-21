@@ -26,14 +26,14 @@
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png" group-title="OPANG",Trans 7
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/960px-Moji_blue.svg.png" group-title="OPANG",MOJITV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/960px-Moji_blue.svg.png" group-title="OPANG", MOJITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/960px-Moji_blue.svg.png" group-title="OPANG",MOJITV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/960px-Moji_blue.svg.png" group-title="OPANG", MOJITV
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG",Trans TV
+#EXTINF:0, tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG", Trans TV
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV max
@@ -54,7 +54,7 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD max
 
 
-#EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -110,7 +110,7 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="OPANG",NTV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 
-#EXTINF:-1 tvg-id="__" group-title="OPANG" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png",Bandung TV
+#EXTINF:-1 group-title="OPANG" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="OPANG",Magna Channel
