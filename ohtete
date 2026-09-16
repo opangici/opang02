@@ -1,229 +1,229 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG", RCTI (R+)
+
+#EXTINF:-1  group-title="OPANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG", RCTI indi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="OPANG", RCTI indi
 
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG", MNC TV
+#EXTINF:-1  group-title="OPANG" tvg-logo="https://images.seeklogo.com/logo-png/31/2/mnc-tv-logo-png_seeklogo-314515.png",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG", MNC TV indi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="OPANG", MNC TV indi
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG", GLOBAL TV
+#EXTINF:-1  group-title="OPANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png", GLOBAL TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG", GTV indi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="OPANG", GTV indi
 
 
 
-#EXTINF:0, group-title="OPANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png", GTV
+#EXTINF:-1 group-title="OPANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png", GTV
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png" group-title="OPANG",Trans 7
-
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/960px-Moji_blue.svg.png" group-title="OPANG", MOJITV
+#EXTINF:-1  group-title="OPANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/960px-Moji_blue.svg.png", MOJITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/960px-Moji_blue.svg.png" group-title="OPANG", MOJITV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/960px-Moji_blue.svg.png" group-title="OPANG", MOJITV
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG", Trans TV
+#EXTINF:-1 tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG", Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=transtv
+
+#EXTINF:-1 tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG", Trans7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/300px-Trans_7_2013.svg.png" group-title="OPANG",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=trans7
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV max
 
 
-#EXTINF:0, tvg-logo="https://ciungtips.com/wp-content/uploads/2015/03/TRANS_TV.png" group-title="OPANG", Trans TV
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
 
 
-#EXTINF:0, tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="OPANG",SCTV
+#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
 
 
-#EXTINF:0, tvg-id="Moji.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548" group-title="OPANG",MOji
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/webarebears/images/d/d1/Logo_MDTV.png/revision/latest/thumbnail/width/360/height/450?cb=20250309124101&path-prefix=id" group-title="OPANG", MDTV HD ()
 
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/webarebears/images/d/d1/Logo_MDTV.png/revision/latest/thumbnail/width/360/height/450?cb=20250309124101&path-prefix=id" group-title="OPANG", MDTV HD ()
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD max
 
 
-#EXTINF:0, tvg-id="INDOSIAR.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD max
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
 
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Indosiar_Sticker_Logo.png" group-title="OPANG", INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV (ox)
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="OPANG",ANTV (ox)
-
-
-#EXTINF:0, tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG", TVONE
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG", TVONE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:0, tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG",tvOne
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="OPANG",tvOne
 
  
-#EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="OPANG",Jak TV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="OPANG",Jak TV
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Logo_Kompas_Di_Layar_kaca.png/500px-Logo_Kompas_Di_Layar_kaca.png" group-title="OPANG",Kompas TV
-https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Logo_Kompas_Di_Layar_kaca.png/500px-Logo_Kompas_Di_Layar_kaca.png" group-title="OPANG",Kompas TV
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Logo_Kompas_Di_Layar_kaca.png/500px-Logo_Kompas_Di_Layar_kaca.png" group-title="OPANG",Kompas TV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Logo_Kompas_Di_Layar_kaca.png/500px-Logo_Kompas_Di_Layar_kaca.png" group-title="OPANG",Kompas TV
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Logo_Kompas_Di_Layar_kaca.png/500px-Logo_Kompas_Di_Layar_kaca.png" group-title="OPANG",Kompas TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Logo_Kompas_Di_Layar_kaca.png/500px-Logo_Kompas_Di_Layar_kaca.png" group-title="OPANG",Kompas TV
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
-#EXTINF:0, tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="OPANG",SINPO TV
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="OPANG",SINPO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
-#EXTINF:0, tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="OPANG",BIOSKOP IND
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="OPANG",BIOSKOP IND
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-#EXTINF:0, tvg-id="TVRI" tvg-name="TVRI" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/b5gcteI.png" group-title="OPANG",TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/b5gcteI.png" group-title="OPANG",TVRI
 
  
-#EXTINF:0, tvg-id="TVRI World" tvg-name="TVRI World" tvg-url="" tvg-logo="https://i.imgur.com/zfElMa0.png" group-title="OPANG",TVRI World
+#EXTINF:-1 tvg-id="TVRI World" tvg-name="TVRI World" tvg-url="" tvg-logo="https://i.imgur.com/zfElMa0.png" group-title="OPANG",TVRI World
 
  
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/RtvIndonesia.png/300px-RtvIndonesia.png" group-title="OPANG",Rajawali TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/RtvIndonesia.png/300px-RtvIndonesia.png" group-title="OPANG",Rajawali TV
 
 
-#EXTINF:0, tvg-logo="https://www.theindonesiachannel.com/uploads/news/thb_LogoTICClean_1440X812.png" group-title="OPANG",THE INDONESIA CHANNEL
+#EXTINF:-1 tvg-logo="https://www.theindonesiachannel.com/uploads/news/thb_LogoTICClean_1440X812.png" group-title="OPANG",THE INDONESIA CHANNEL
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png" group-title="OPANG",INEWS ()
-
-
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png" group-title="OPANG",INEWS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png" group-title="OPANG",INEWS ()
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="OPANG",NTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png" group-title="OPANG",INEWS
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="OPANG",NTV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 
 #EXTINF:-1 group-title="OPANG" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="OPANG",Magna Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="OPANG",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
  
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="OPANG",Jakarta Globe News Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="OPANG",Jakarta Globe News Channel
 
  
 #EXTINF:-1 tvg-id="__" group-title="OPANG" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png",Da Ai TV Indonesia
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
  
-#EXTINF:0, tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="OPANG",GARUDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="OPANG",GARUDA
 https://flv.intechmedia.net/live/ch104.m3u8|user-agent=Mozilla/5.0
  
-#EXTINF:0, tvg-logo="https://object-streamo.emonaja.com/img/cnn.png" group-title="OPANG", CNN ID
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/cnn.png" group-title="OPANG", CNN ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="OPANG",Metro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="OPANG",Metro TV
 https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="OPANG",Metro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="OPANG",Metro TV
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="OPANG",Bioskop Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="OPANG",Bioskop Indonesia
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" group-title="OPANG",tvN Movies
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" group-title="OPANG",tvN Movies
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
-#EXTINF:0, tvg-id="ext" group-title="OPANG" tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png",Red Bull TV
+#EXTINF:-1 tvg-id="ext" group-title="OPANG" tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png",Red Bull TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
-#EXTINF:0, tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="OPANG",Motorvision
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="OPANG",Motorvision
 
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest/scale-to-width-down/284?cb=20200428062800" group-title="OPANG", Champions TV 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest/scale-to-width-down/284?cb=20200428062800" group-title="OPANG", Champions TV 1
 
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest/scale-to-width-down/284?cb=20210621091959" group-title="OPANG", Champions TV 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest/scale-to-width-down/284?cb=20210621091959" group-title="OPANG", Champions TV 2
 
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png" group-title="OPANG", Unifi 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png" group-title="OPANG", Unifi 1
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="OPANG",Soccer Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="OPANG",Soccer Channel
 
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/185?cb=20170731002804" group-title="OPANG",NBA TV
-
-
-
-#EXTINF:0, tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png" group-title="OPANG",Fight Sports
-
-
-#EXTINF:0, tvg-id="Erz.ufc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&amp;usqp=CAU" group-title="OPANG",UFC Stadium
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/185?cb=20170731002804" group-title="OPANG",NBA TV
 
 
 
-#EXTINF:0, tvg-id="CartoonNetworkAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cartoonnetwork.png" group-title="OPANG",Cartoon Network
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png" group-title="OPANG",Fight Sports
+
+
+#EXTINF:-1 tvg-id="Erz.ufc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&amp;usqp=CAU" group-title="OPANG",UFC Stadium
 
 
 
-#EXTINF:0, tvg-id="BoomerangSouthEastAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/boomerang.png" group-title="OPANG",Boomerang
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cartoonnetwork.png" group-title="OPANG",Cartoon Network
 
 
 
-#EXTINF:0, tvg-id="AnimaxAsia.jp" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Besmart.png" group-title="OPANG",BeSMART
-
-
-#EXTINF:0, tvg-id="B-KIDS" tvg-name="" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="OPANG",B-KIDS
-
-
-#EXTINF:0, tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="OPANG",Baby TV
-
-
-#EXTINF:0, tvg-id="" tvg-name="Kids TV" tvg-logo="http://dusktill.masuk.web.id/img/kidstv.png" group-title="OPANG",Kids Channel
-
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="OPANG",ANIPLUS
-
-
-#EXTINF:0, tvg-logo="https://docplayer.info/docs-images/75/72882473/images/40-0.jpg" group-title="OPANG",HOREE
+#EXTINF:-1 tvg-id="BoomerangSouthEastAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/boomerang.png" group-title="OPANG",Boomerang
 
 
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png/revision/latest/scale-to-width-down/250?cb=20180713090314" group-title="OPANG",Miao Mi
+#EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Besmart.png" group-title="OPANG",BeSMART
 
 
-#EXTINF:0, tvg-logo="https://p.kindpng.com/picc/s/230-2302368_dream-fiction-wiki-nickelodeon-logo-png-transparent-png.png" group-title="OPANG",Nickelodeon
+#EXTINF:-1 tvg-id="B-KIDS" tvg-name="" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="OPANG",B-KIDS
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="OPANG",Nick Jr
+#EXTINF:-1 tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="OPANG",Baby TV
 
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CBeebies_II.svg/revision/latest/scale-to-width-down/250?cb=20210613084417" group-title="OPANG",CBeebies
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="http://dusktill.masuk.web.id/img/kidstv.png" group-title="OPANG",Kids Channel
 
 
-#EXTINF:0, tvg-logo="https://toon-kids.com/media/images/general/logo.png" group-title="OPANG",Toon Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="OPANG",ANIPLUS
 
 
-#EXTINF:0, tvg-id="AlQuran.tv" tvg-name="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/fullhd_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="OPANG",AlQuran Tv
+#EXTINF:-1 tvg-logo="https://docplayer.info/docs-images/75/72882473/images/40-0.jpg" group-title="OPANG",HOREE
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png/revision/latest/scale-to-width-down/250?cb=20180713090314" group-title="OPANG",Miao Mi
+
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/230-2302368_dream-fiction-wiki-nickelodeon-logo-png-transparent-png.png" group-title="OPANG",Nickelodeon
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="OPANG",Nick Jr
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CBeebies_II.svg/revision/latest/scale-to-width-down/250?cb=20210613084417" group-title="OPANG",CBeebies
+
+
+#EXTINF:-1 tvg-logo="https://toon-kids.com/media/images/general/logo.png" group-title="OPANG",Toon Kids
+
+
+#EXTINF:-1 tvg-id="AlQuran.tv" tvg-name="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/fullhd_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="OPANG",AlQuran Tv
 
 
 #EXTINF:0 tvg-id="" tvg-name="MNC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/MNCMuslim_baru.png/revision/latest/scale-to-width-down/250?cb=20171117155100" group-title="OPANG",Muslim Tv
@@ -244,21 +244,20 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REFORMED" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png" group-title="OPANG",Reformed 21
 
+
 ======================================================================
 
-
-#EXTM3U url-tvg="https://beetv.my.id/epg.php" 
 #EXTINF:-1 tvg-name="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="SVR",Trans TV 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0 
 #EXTVLCOPT:http-origin=https://20.detik.com 
 #EXTVLCOPT:http-referrer=https://20.detik.com/ 
-https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787211547655&wowzatokenhash=BnffG6c5WFVF1xe0hah67JGiG4nR3kV966dGjB2fdEk%3D 
+
 
 #EXTINF:-1 tvg-name="Trans7.id" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="SVR",Trans 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-origin=https://20.detik.com 
 #EXTVLCOPT:http-referrer=https://20.detik.com/ 
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
+
 
 #EXTINF:-1 tvg-name="MDTV.id" tvg-logo="https://images.indihometv.com/logo_net_big1.png" group-title="SVR",MDTV 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ 
@@ -388,15 +387,15 @@ https://beetv.my.id/hls/dlhd.php?id=575&redirect=1
 
 #EXTINF:-1 tvg-id="SkySportsGPIT" tvg-logo="https://beetv.my.id/logo/sportstars.png" group-title="SVR", Live Event #1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
-https://dlhd.iclik.workers.dev/?channel=TSN1&play=1
+
 
 #EXTINF:-1 tvg-id="SkySportsGPIT" tvg-logo="https://beetv.my.id/logo/sportstars.png" group-title="SVR", Live Event #2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
  
 #EXTINF:-1 tvg-id="SkySportsGPIT" tvg-logo="https://beetv.my.id/logo/sportstars.png" group-title="SVR", Live Event #3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
-https://dlhd.iclik.workers.dev/?channel=TSN4&play=1 
+
 
 #EXTINF:-1 group-title="SVR" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1745228970_tvchannels_v1.jpg", Live Streaming 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 
@@ -615,13 +614,72 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lit
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+
+#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/29f0ac24-f7fb-419e-bec6-2a673b172b31.jpg" group-title="Lokal", Trans TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15250366075
+
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ffa3f8aa-db6e-457e-b7b9-82396bb2c629.jpg" group-title="Lokal", Trans 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFJBTlM3LW15/manifest.mpd?signature=YmYwNjBmZDliMmQwZGQ2NmVjNWM1NzUyMWM1ZWEyNWU=&time=15250126226
+
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/efc56c4c-23e5-43a5-8dbd-0697b99438cd.png" group-title="Lokal", Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SW5kb3NpYXI/manifest.mpd?signature=YTRmYzgxYTE5MzlhYzQ5NzRkNmU0MDA3MjU1NDBkMmM=&time=15250126356
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="Lokal", SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/U0NUVi1teQ/manifest.mpd?signature=ODM2MjA3ODU4ODNhNDRmZWU2ZDY3MDRlNmFmNjg0YWQ=&time=15250251361
+
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/15c10f90-4304-4410-a418-67891b5c185d.png" group-title="Lokal", RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=ZGNlODA4ZGM5MTBhNDhkNjY5YTI3NDA3ZjhmYzBlNDE=&time=15250252732
+
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="Lokal", GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=MzkzMjdkMGVhNTM3OTBmOTMyN2I5NzM4Y2RkOGFiOWY=&time=15250251756
+
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="Lokal", MNC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/TU5DVFY/manifest.mpd?signature=MjU3NjJmMzE2OGQxMDc0NTJiZmUxYmQzNTVhNjk5ODI=&time=15250252113
+
+#EXTINF:-1 tvg-id="364" tvg-name="ANTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png" group-title="Lokal",ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/QU5UVg/manifest.mpd?signature=NWQzZDE2MzdjODZlOTBjYzBlNjc5ZjZlZmM1ZWMxNDU=&time=15250252221
+
+#EXTINF:-1 tvg-id="246" tvg-name="Rtv" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f4bd6cd9-d8a5-4f42-8dce-7f332ec55940.jpg" group-title="Lokal",RTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/cnR2IENobmw/manifest.mpd?signature=OTI2NzkyNmNmNjI3NmI5ZmZjOTc3ZjcyNzVmOGNlNDA=&time=15250252355
+
+#EXTINF:-1 tvg-id="230" tvg-name="Bioskop Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="Lokal", Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=MGM2YzMyNGZkYWZiMDg4NDRiNzY0MWRmOWQ3Njc4Yzc=&time=15250256325
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="Lokal",RCTI (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=1.play
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="Lokal",RCTI (R+)1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -631,7 +689,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="Lokal",RCTI (R+)2
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="Lokal",RCTI (max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -653,7 +711,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="Lokal",MNCTV (R+)2
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="Lokal",MNCTV (Max)
 #http://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
@@ -698,7 +756,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 group-title="Lokal" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (R+)2
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+
 
 #EXTINF:-1 group-title="Lokal" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -708,7 +766,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (VD)2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -722,7 +780,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (max)
 #https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
@@ -731,7 +789,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/stream/vd.m3u8?ch=sctv
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -746,7 +804,7 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="Lokal",SCTV (max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -768,7 +826,7 @@ https://tvratu.my.id/vid/index.mpd?id=782&type=dash
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (VD)3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
+
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png", tvOne (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -781,11 +839,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7838&type=drm
-#https://tvratu.my.id/vid/index.mpd?id=783&type=dash
+https://tvratu.my.id/vid/index.mpd?id=783&type=dash
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png", tvOne (VD)2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
+https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png", tvOne (max)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -793,7 +851,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png", tvOne (intech)
-#https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
