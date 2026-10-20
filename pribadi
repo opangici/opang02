@@ -1581,21 +1581,21 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 #EXTINF:0, tvg-id="59" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" group-title="MOVIES", tvN
-#http://202.169.224.202:8800/udp/239.9.1.20:1234
+http://202.169.224.202:8800/udp/239.9.1.20:1234
 
-#EXTINF:0, tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="MOVIES",TVN Movies (trans)
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="MOVIES",TVN Movies (trans)
 
 
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="MOVIES",HBO
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:0, tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="MOVIES",HBO Hits
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:0, tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/434873a2-10b6-4447-950e-f8e62fe2589f.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/434873a2-10b6-4447-950e-f8e62fe2589f.png" group-title="MOVIES",HBO Family
 http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:0, tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3e48d990-c181-4ef4-90a3-1e2c5709d465.png" group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3e48d990-c181-4ef4-90a3-1e2c5709d465.png" group-title="MOVIES",HBO Signature
 http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:0, tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="MOVIES",HBO Xtreme
@@ -1687,7 +1687,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="MOVIES", ONE (V)
 
 
-#EXTINF:0, tvg-logo="http://www.mncvision.id.E" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="MOVIES", CELESTIAL MOVIE (V)
+#EXTINF:-1 tvg-logo="http://www.mncvision.id.E" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="MOVIES", CELESTIAL MOVIE (V)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1698,7 +1698,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest/scale-to-width-down/150?cb=20190603053700" group-title="MOVIES", CELESTIAL CLASSIC (V)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest/scale-to-width-down/150?cb=20190603053700" group-title="MOVIES", CELESTIAL CLASSIC (V)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
