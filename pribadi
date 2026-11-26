@@ -390,7 +390,17 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KidsTV.id" tvg-logo="https://beetv.my.id/logo/vtv.png" group-title="SVR", VTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch107.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SVR",TV9 NUSANTARA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SVR",LINGKARTV 
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SVR",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
 #EXTINF:-1 tvg-name="OKTV.id" tvg-logo="https://beetv.my.id/logo/vtv.png" group-title="SVR", Oxygentv 
 #EXTVLCOPT:http-referrer=https://oxygentv.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 
@@ -1179,21 +1189,6 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="https://i.ibb.co/g4GgKMs/Bungo-TV.png" group-title="Lokal",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-
-======================================================================
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",TV9 NUSANTARA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",LINGKARTV 
-https://lingkartv.my.id/hls/lingkartv.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",JITV HD
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:0, tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS TV",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 =================================================================
 
@@ -3117,8 +3112,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/p1ZsvyQ.png" group-title="SPORT",SpoTV 2 🇹🇭 
 
-
-https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:0, group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/SoccerChannel.png",SOCCER Channel
 
